@@ -265,6 +265,22 @@ if ( ! function_exists( 'build_taxonomies' ) ) {
 				),
 			)
 		);
+
+		// register property status taxonomy for product post type
+		register_taxonomy(
+			'auction-property-status',
+			array('product'),
+			array(
+				'hierarchical' => true,
+				'labels' => apply_filters('inspiry_property_status_labels', $status_labels),
+				'show_ui' => true,
+				'show_in_menu' => 'product',
+				'query_var' => true,
+				'rewrite' => array(
+					'slug' => apply_filters('inspiry_property_status_slug', __('auction-property-status', 'framework')),
+				),
+			)
+		);
 	}
 	add_action( 'init', 'build_taxonomies', 0 );
 }

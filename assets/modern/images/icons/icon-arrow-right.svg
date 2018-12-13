@@ -1,0 +1,32 @@
+<svg class="arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="71" viewBox="0 0 71 71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea723d;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="71" height="71" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="4" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.464"/>
+      <feFlood result="flood" flood-opacity="0.06"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="828" y="5055" width="25" height="21" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2"/>
+      <feFlood result="flood" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle data-name="Ellipse 7 copy 2" class="cls-1" cx="35" cy="31" r="24"/>
+  <path data-name="Ellipse 6 copy 24" class="cls-2" d="M832.5,5064.55l7.5,0.78V5070l9-7-9-7v4.67l-7.5.77A1.472,1.472,0,0,0,831,5063,1.5,1.5,0,0,0,832.5,5064.55Z" transform="translate(-805 -5032)"/>
+</svg>

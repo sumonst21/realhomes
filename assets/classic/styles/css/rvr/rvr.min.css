@@ -1,0 +1,18 @@
+.nolink-list ul li{color:#636464;padding:7px 2px 7px 25px}
+#property-availability{padding:30px;background:#f2f2f2}
+.availability-calendar{overflow:hidden;width:48%;-webkit-box-sizing:border-box;box-sizing:border-box;display:inline-block}
+.availability-calendar+.availability-calendar{margin-left:32px}
+.availability-calendar .paging{text-align:center;font-size:12px;position:relative;padding:10px;background:#54c7ed;color:#fff}
+.availability-calendar .paging .month-name{text-transform:uppercase;font-size:18px}
+.availability-calendar .paging i{width:0;height:0;display:inline-block;vertical-align:middle;position:absolute;top:13px;line-height:24px;border-color:#fff;border-style:solid;border-width:7px;cursor:pointer}
+.availability-calendar .paging i.prev{left:10px;border-top-color:transparent;border-bottom-color:transparent;border-left-style:none}
+.availability-calendar .paging i.next{right:10px;border-top-color:transparent;border-bottom-color:transparent;border-right-style:none}
+.availability-calendar table{font-weight:400;font-size:14px;color:#333;border-collapse:collapse;width:100%;border:0}
+.availability-calendar table td{text-align:center;border:1px solid #eee;padding:3px;height:30px}
+.availability-calendar table td.near-month{color:#ccc;visibility:hidden;border-color:transparent}
+.availability-calendar table td.cur-date.cur-month{background:#d9edf7}
+.availability-calendar table td.unavailable{background:#ec884d;color:#fff}
+.availability-calendar table thead{font-weight:700}
+.availability-calendar table thead td{border:0;min-width:40px;background:0;text-transform:uppercase}
+.availability-calendar table tbody td:hover{background:#eee}
+.availability-calendar table tbody td:hover.unavailable{background:#ec884d}

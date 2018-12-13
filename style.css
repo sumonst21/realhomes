@@ -1,0 +1,305 @@
+/*
+	Theme Name: RealHomes Theme
+	Theme URI: http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914
+	Description: Real Homes is a handcrafted WordPress theme for real estate websites. It offers purpose oriented design with all the useful features a real estate website needs. Real Homes theme facilitates its user on front end as well as on admin-side and makes properties management a breeze.
+	Author: Inspiry Themes
+	Author URI: https://www.inspirythemes.com/
+	Version: 3.5.2
+	Text Domain: framework
+    Domain Path: /languages
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Tags: custom-background, light, one-column, two-columns, three-columns, four-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+	----------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width: 320px) {
+    .rh_header .rh_header__wrap {
+        padding: 1rem;
+    }
+    .rh_menu__user .rh_menu__user_profile {
+        padding: 0 1rem 0 1rem;
+    }
+    .rh_footer {
+        padding: 0rem 0 3rem;
+    }
+    .rh_map_home {
+        padding: 3rem 0 1.5rem 0;
+    }
+}
+
+@media (min-width: 480px) {
+    .rh_header .rh_header__wrap {
+        padding: 2rem 1.5rem;
+    }
+    .rh_menu__user .rh_menu__user_profile {
+        padding: 0 1rem 0 1rem;
+    }
+    .rh_footer {
+        padding: 0rem 0 3rem;
+    }
+    .rh_map_home {
+        padding: 5rem 0 3rem 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .rh_header .rh_header__wrap {
+        padding: 2.5rem 5rem;
+    }
+    .rh_menu__user .rh_menu__user_profile {
+        padding: 0 1rem 0 1rem;
+    }
+    .rh_footer {
+        padding: 1rem 0;
+    }
+    .rh_map_home {
+        padding: 5rem 0 3rem 0;
+    }
+}
+
+@media (min-width: 1024px) {
+    .rh_header .rh_header__wrap {
+        padding: 2.5rem 2.5rem;
+    }
+    .rh_menu__user .rh_menu__user_profile {
+        padding: 0 1rem 0 1rem;
+    }
+    .rh_footer {
+        padding: 1rem 0 1rem 0;
+    }
+    .rh_prop_search__form {
+        margin-top: 0;
+    }
+    .rh_footer .rh_footer__social {
+        width: 80%;
+        padding: 0;
+    }
+    .rh_map_home {
+        padding: 5rem 0 5rem 0;
+    }
+}
+
+@media (min-width: 1140px) {
+    .rh_header .rh_header__wrap {
+        padding: 2.5rem 3.5rem;
+    }
+    .rh_menu__user .rh_menu__user_profile {
+        padding: 0 .5rem 0 .5rem;
+    }
+    .rh_footer {
+        padding: 1rem 0 1rem 0;
+    }
+    .rh_prop_search__form {
+        margin-top: 0;
+    }
+    .rh_footer .rh_footer__social {
+        width: 80%;
+        padding: 0;
+    }
+    .rh_map_home {
+        padding: 5rem 0 4rem 0;
+    }
+}
+
+@media (min-width: 1280px) {
+    .rh_header .rh_header__wrap {
+        padding: 2.5rem 5rem;
+    }
+    .rh_menu__user .rh_menu__user_profile {
+        padding: 0 2rem 0 2rem;
+    }
+    .rh_footer {
+        padding: 1rem 0 1rem 0;
+    }
+    .rh_prop_search__form {
+        margin-top: 0;
+        padding: 0 10rem;
+    }
+    .rh_footer .rh_footer__social {
+        width: 60%;
+        padding: 0;
+    }
+}
+
+@media (min-width: 1281px) {
+    .rh_menu {
+        height: 117px !important;
+    }
+    .rh_prop_search__form {
+        margin-top: 0;
+    }
+}
+
+.rh_header .rh_header__wrap {
+    max-width: none;
+    width: 100%;
+    background: #003366;
+    /*margin: 2.5rem 0;*/
+    margin: 0;
+    padding: 0 2.5rem;
+}
+
+.rh_logo {
+    flex: 4 0 10rem;
+}
+
+ul.rh_menu__main li a {
+    font-size: 2rem;
+    padding: 1.3rem 2.7rem;
+}
+
+ul.rh_menu__main {
+    padding: 0 0 0 5rem;
+}
+
+.rh_menu__user .rh_menu__user_submit {
+    display: none;
+}
+
+.rh_menu {
+    -webkit-box-flex: 0;
+    -webkit-flex: 3 1 auto;
+    -ms-flex: 3 1 auto;
+    flex: 3 1 auto;
+}
+
+.rh_footer__widgets.columns-3 .widget_media_image img {
+    max-width: 150px !important;
+}
+
+.rh_prop_search {
+    max-width: 100%;
+    padding: 0;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+
+.rh_prop_search__form {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.rh_footer .rh_footer--paddingBottom {
+    padding-bottom: 1rem;
+}
+
+.rh_footer__widgets .widget {
+    margin-bottom: 1rem;
+}
+
+.rh_footer__social .fa-lg {
+    font-size: 1.5em;
+}
+
+.rh_footer .rh_footer__social a {
+    margin: 0;
+    padding: 15px 10px;
+}
+
+.rh_footer .rh_footer__social {
+    /*width: 60%;*/
+    text-align: center;
+    padding: 0;
+    margin: 0px auto;
+}
+
+section#custom_html-5 .title {
+    text-align: center;
+}
+
+.rh_section__cta {
+    z-index: 0;
+}
+
+.rh_map_home {
+    background: #f7f7f7 !important;
+}
+
+.rh_footer.diagonal-border:before {
+    display: none;
+}
+
+.rh_map_home #map-head {
+    margin: 0 auto;
+    width: 1180px;
+    background: #fff;
+    position: relative;
+    -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, .1);
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .05);
+    padding: 5px;
+}
+
+@media screen and (max-width: 1350px) {
+    .rh_map_home #map-head {
+        width: 90%;
+    }
+}
+
+
+/* page-template-list-layout */
+
+.page-template-list-layout .rh_map {
+    padding-bottom: 5rem;
+}
+
+.page-template-list-layout .rh_page__listing_page {
+    padding-bottom: 10rem;
+}
+
+.page-template-list-layout .rh_page__sidebar {
+    padding-bottom: 10rem;
+}
+
+.page-template-list-layout #map-head {
+    -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, .05);
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .05);
+    background: #fff;
+    padding: 5px;
+}
+
+.widget_auction_property_details .rh_prop_card__details {
+    padding: 1.5rem;
+}
+
+.widget_auction_property_details .user-status {
+    padding: 0 0 1rem 0;
+    border-bottom: 1px dashed rgba(128, 128, 128, .2);
+    margin: 0 0 1rem 0;
+}
+
+.widget_auction_property_details .user-status .bid-status-message {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.widget_auction_property_details .user-status .bid-status-message svg {
+    width: 24px;
+    fill: #003366;
+}
+
+.widget_auction_property_details .user-status .bid-status-message span {
+    padding: 0 0 0 1.5rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #003366;
+}
+
+.widget_auction_property_details .bid-stats {
+    padding: 0 0 1rem 0;
+    border-bottom: 1px dashed rgba(128, 128, 128, .2);
+    margin: 0 0 1rem 0;
+    text-align: center;
+    color: #003366;
+    font-size: 2rem;
+}

@@ -1,0 +1,4117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RealHomes Theme\n"
+"POT-Creation-Date: 2016-07-26 15:00+0500\n"
+"PO-Revision-Date: 2016-08-09 10:54+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: framework/meta-box/extensions\n"
+"X-Poedit-SearchPathExcluded-2: framework/meta-box/meta-box-plugin\n"
+"X-Poedit-SearchPathExcluded-3: framework/one-click-demo-install\n"
+"X-Poedit-SearchPathExcluded-4: font\n"
+"X-Poedit-SearchPathExcluded-5: recaptcha\n"
+"X-Poedit-SearchPathExcluded-6: sass\n"
+"X-Poedit-SearchPathExcluded-7: node_modules\n"
+"X-Poedit-SearchPathExcluded-8: framework/admin\n"
+
+#: 404.php:6
+msgid "404 - Page Not Found!"
+msgstr "404 - ¡Página no encontrada!"
+
+#: 404.php:7
+msgid "The page you are looking for is not here!"
+msgstr "¡La página que estás buscando no está aquí!"
+
+#: 404.php:31
+msgid "Please try using top navigation OR search for what you are looking for!"
+msgstr "¡Inténtalo usando la barra de navegación superior O busca lo que necesitas!"
+
+#: archive-property.php:69
+msgid "No Property Found"
+msgstr "No se ha encontrado ninguna propiedad"
+
+#: archive.php:7 archive.php:23 archive.php:28 archive.php:33 archive.php:44
+msgid "Archives"
+msgstr "Archivos"
+
+#: archive.php:13
+msgid "All Posts in Category"
+msgstr "Todas las publicaciones de la Categoría"
+
+#: archive.php:18
+msgid "All Posts in Tag"
+msgstr "Todas las publicaciones en la etiqueta"
+
+#: archive.php:39
+msgid "All Posts By"
+msgstr "Todas las publicaciones de"
+
+#: author.php:8
+msgid "All Properties By"
+msgstr "Todas las propiedades de"
+
+#: author.php:82 framework/customizer/contact.php:90 single-agent.php:63
+msgid "Contact Details"
+msgstr "Datos de contacto"
+
+#: author.php:86 property-details/property-agent-for-sidebar.php:42
+#: property-details/property-agent.php:48 single-agent.php:67
+#: templates/agents-list.php:86 template-users-listing.php:119
+msgid "Office"
+msgstr "Oficina"
+
+#: author.php:90 property-details/property-agent-for-sidebar.php:50
+#: property-details/property-agent.php:56 single-agent.php:70
+#: templates/agents-list.php:89 template-contact.php:69
+#: template-users-listing.php:122
+msgid "Mobile"
+msgstr "Móvil"
+
+#: author.php:94 property-details/property-agent-for-sidebar.php:58
+#: property-details/property-agent.php:64 single-agent.php:73
+#: templates/agents-list.php:92 template-contact.php:73
+#: template-users-listing.php:125
+msgid "Fax"
+msgstr "Fax"
+
+#: author.php:174 framework/include/shortcodes/elements.php:265
+#: templates/my-properties.php:170 template-parts/home-properties.php:78
+#: template-parts/sidebar-search-results.php:55
+msgid "No Properties Found!"
+msgstr "¡No se ha encontrado ninguna propiedad!"
+
+#: banners/blog_page_banner.php:3 framework/customizer/news.php:31
+msgid "News"
+msgstr "Noticias"
+
+#: banners/blog_page_banner.php:6 framework/customizer/news.php:43
+msgid "Check out market updates"
+msgstr "Échale un vistazo a las novedades del mercado"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta publicación está protegida con contraseña. Introduce la contraseña para ver los comentarios."
+
+#: comments.php:11
+msgid "No Comment"
+msgstr "No hay ningún comentario"
+
+#: comments.php:11
+msgid "One Comment"
+msgstr "Un comentario"
+
+#: comments.php:11
+msgid "(%) Comments"
+msgstr "(%) comentarios"
+
+#: comments.php:30
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: framework/customizer/agents.php:15
+msgid "Agents Pages"
+msgstr "Páginas de agentes"
+
+#: framework/customizer/agents.php:26
+msgid "Number of Agents"
+msgstr "Cantidad de agentes"
+
+#: framework/customizer/agents.php:27
+msgid "Select the maximum number of agents to display on an agents list page."
+msgstr "Selecciona la cantidad máxima de agentes que se mostrarán en la página de lista de agentes."
+
+#: framework/customizer/agents.php:60
+msgid "Number of Properties on Agent Detail Page"
+msgstr "Cantidad de propiedades en la página de datos del agente"
+
+#: framework/customizer/agents.php:61
+msgid "Select the number of properties to display on Agent detail page."
+msgstr "Selecciona la cantidad máxima de propiedades que se mostrarán en la página de datos del agente."
+
+#: framework/customizer/contact.php:15
+msgid "Contact Page"
+msgstr "Página de contacto"
+
+#: framework/customizer/contact.php:25
+msgid "Google Map on Contact Page"
+msgstr "Mapa de Google en la página de contacto"
+
+#: framework/customizer/contact.php:29 framework/customizer/contact.php:94
+#: framework/customizer/footer.php:37 framework/customizer/header.php:54
+#: framework/customizer/header.php:177 framework/customizer/home.php:253
+#: framework/customizer/home.php:310 framework/customizer/home.php:473
+#: framework/customizer/home.php:535 framework/customizer/members.php:404
+#: framework/customizer/property.php:39 framework/customizer/property.php:120
+#: framework/customizer/property.php:190 framework/customizer/property.php:239
+#: framework/customizer/property.php:276 framework/customizer/property.php:314
+#: framework/customizer/property.php:351 framework/customizer/property.php:406
+#: framework/meta-box/config-meta-boxes.php:585
+msgid "Show"
+msgstr "Mostrar"
+
+#: framework/customizer/contact.php:30 framework/customizer/contact.php:95
+#: framework/customizer/footer.php:38 framework/customizer/header.php:55
+#: framework/customizer/header.php:178 framework/customizer/home.php:254
+#: framework/customizer/home.php:311 framework/customizer/home.php:474
+#: framework/customizer/home.php:536 framework/customizer/members.php:405
+#: framework/customizer/property.php:40 framework/customizer/property.php:121
+#: framework/customizer/property.php:191 framework/customizer/property.php:240
+#: framework/customizer/property.php:277 framework/customizer/property.php:315
+#: framework/customizer/property.php:352 framework/customizer/property.php:407
+#: framework/meta-box/config-meta-boxes.php:586
+msgid "Hide"
+msgstr "Ocultar"
+
+#: framework/customizer/contact.php:41
+msgid "Google Map Latitude"
+msgstr "Latitud en mapa de Google"
+
+#: framework/customizer/contact.php:54
+msgid "Google Map Longitude"
+msgstr "Longitud en mapa de Google"
+
+#: framework/customizer/contact.php:66
+msgid "Google Map Zoom Level"
+msgstr "Nivel de zoom en mapa de Google"
+
+#: framework/customizer/contact.php:67
+msgid "Provide Google Map Zoom Level."
+msgstr "Indicar nivel de zoom en mapa de Google."
+
+#: framework/customizer/contact.php:105
+msgid "Contact Details Title"
+msgstr "Título de los datos de contacto"
+
+#: framework/customizer/contact.php:116
+msgid "Contact Address"
+msgstr "Dirección de contacto"
+
+#: framework/customizer/contact.php:127
+msgid "Cell Number"
+msgstr "Número de móvil"
+
+#: framework/customizer/contact.php:138 framework/customizer/header.php:208
+#: template-contact.php:130
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: framework/customizer/contact.php:149 framework/functions/basic.php:366
+#: framework/meta-box/config-meta-boxes.php:494 template-edit-profile.php:138
+msgid "Fax Number"
+msgstr "Número de fax"
+
+#: framework/customizer/contact.php:160
+msgid "Display Email"
+msgstr "Mostar correo electrónico"
+
+#: framework/customizer/contact.php:161
+msgid "Provide Email that will be displayed in contact details section."
+msgstr "Indicar correo electrónico que se mostrará en la sección de datos de contacto."
+
+#: framework/customizer/contact.php:184
+msgid "Contact Form Heading"
+msgstr "Encabezado de formulario de contacto"
+
+#: framework/customizer/contact.php:196
+msgid "Contact Form Email"
+msgstr "Correo electrónico de formulario de contacto"
+
+#: framework/customizer/contact.php:197
+msgid "Provide email address that will get messages from contact form."
+msgstr "Indicar la dirección de correo electrónico que recibirá los mensajes del formulario de contacto."
+
+#: framework/customizer/contact.php:208
+msgid "Contact Form CC Email"
+msgstr "Correo CC de formulario de contacto"
+
+#: framework/customizer/contact.php:209
+msgid "You can add multiple comma separated cc email addresses, to get a carbon copy of contact form message."
+msgstr "Puedes añadir varias direcciones de correo cc separadas por coma, para obtener una copia de carbón del mensaje del formulario de contacto."
+
+#: framework/customizer/contact.php:220
+msgid "Contact Form BCC Email"
+msgstr "Correo CCO de formulario de contacto"
+
+#: framework/customizer/contact.php:221
+msgid "You can add multiple comma separated bcc email addresses, to get a blind carbon copy of contact form message."
+msgstr "Puedes añadir varias direcciones de correo cco separadas por coma, para obtener una copia de carbón oculta del mensaje del formulario de contacto."
+
+#: framework/customizer/contact.php:232
+msgid "Contact Form Shortcode ( To Replace Default Form )"
+msgstr "Código corto del formulario de contacto (para reemplazar el formulario por defecto)"
+
+#: framework/customizer/contact.php:233
+msgid "If you want to replace default contact form with a plugin based form then provide its shortcode here."
+msgstr "Si quieres reemplazar el formulario de contacto por defecto por un formulario basado en plugin, indica aquí el código corto."
+
+#: framework/customizer/currency-switcher.php:23
+msgid "Currency Switcher"
+msgstr "Conversor de divisas"
+
+#: framework/customizer/currency-switcher.php:34
+msgid "Base Currency"
+msgstr "Divisa base"
+
+#: framework/customizer/currency-switcher.php:49
+msgid "Currencies You Want to Support"
+msgstr "Divisas que deseas aceptar"
+
+#: framework/customizer/currency-switcher.php:50
+msgid "Only provide comma separated list of currency codes in capital letters. Do not add dashes, spaces or currency signs."
+msgstr "Indicar únicamente una lista de códigos de divisas en mayúsculas separados por comas. No añadas guiones, espacios o símbolos de divisa."
+
+#: framework/customizer/currency-switcher.php:62
+msgid "Expiry Period for Switched Currency"
+msgstr "Periodo de caducidad de la divisa convertida"
+
+#: framework/customizer/currency-switcher.php:66
+msgid "One Hour"
+msgstr "Una hora"
+
+#: framework/customizer/currency-switcher.php:67
+msgid "One Day"
+msgstr "Un día"
+
+#: framework/customizer/currency-switcher.php:68
+msgid "One Week"
+msgstr "Una semana"
+
+#: framework/customizer/currency-switcher.php:69
+msgid "One Month"
+msgstr "Un mes"
+
+#: framework/customizer/customizer.php:43
+#: framework/functions/property-submit-handler.php:251
+#: framework/functions/property-submit-handler.php:253
+#: framework/functions/property-submit-handler.php:298
+#: framework/functions/property-submit-handler.php:300
+#: framework/functions/real-estate-search.php:260
+#: framework/meta-box/config-meta-boxes.php:53
+#: template-parts/submit-fields/agent.php:12
+#: template-parts/submit-fields/property-status.php:11
+#: template-parts/submit-fields/property-type.php:11
+msgid "None"
+msgstr "Ninguno"
+
+#: framework/customizer/footer.php:14
+msgid "Footer"
+msgstr "Pie de página"
+
+#: framework/customizer/footer.php:23
+#: framework/include/partners-post-type.php:9
+msgid "Partners"
+msgstr "Socios"
+
+#: framework/customizer/footer.php:33
+msgid "Partners Carousel Above Footer"
+msgstr "Carrusel de socios encima del pie de página"
+
+#: framework/customizer/footer.php:48
+msgid "Partners Title"
+msgstr "Título de los socios"
+
+#: framework/customizer/footer.php:58
+msgid "Text"
+msgstr "Texto"
+
+#: framework/customizer/footer.php:68
+msgid "Copyright Text"
+msgstr "Aviso legal"
+
+#: framework/customizer/footer.php:80
+msgid "Designed by Text"
+msgstr "Texto Diseñado por"
+
+#: framework/customizer/footer.php:90 framework/customizer/header.php:364
+#: framework/customizer/styles.php:16
+msgid "Styles"
+msgstr "Estilos"
+
+#: framework/customizer/footer.php:104
+msgid "Footer Widget Title Color"
+msgstr "Color de título de widget de pie de página"
+
+#: framework/customizer/footer.php:120
+msgid "Footer Text Color"
+msgstr "Color de texto de pie de página"
+
+#: framework/customizer/footer.php:136
+msgid "Footer Link Color"
+msgstr "Color de enlace de pie de página"
+
+#: framework/customizer/footer.php:152
+msgid "Footer Link Hover Color"
+msgstr "Color al desplazarse por encima del enlace de pie de página"
+
+#: framework/customizer/footer.php:168
+msgid "Footer Border Color"
+msgstr "Color de borde de pie de página"
+
+#: framework/customizer/footer.php:179
+msgid "Do you want to disable footer background image ?"
+msgstr "¿Quieres desactivar la imagen de fondo del pie de página?"
+
+#: framework/customizer/footer.php:183 framework/customizer/header.php:248
+#: framework/customizer/header.php:353 framework/customizer/misc.php:58
+#: framework/customizer/misc.php:119 framework/customizer/payments.php:30
+#: framework/customizer/payments.php:71 framework/customizer/payments.php:115
+#: framework/customizer/property.php:367 framework/customizer/search.php:112
+#: framework/customizer/search.php:436 framework/customizer/search.php:451
+#: framework/customizer/styles.php:40
+#: framework/include/shortcodes/vc-map.php:238
+#: framework/meta-box/config-meta-boxes.php:190
+#: framework/meta-box/config-meta-boxes.php:359
+msgid "Yes"
+msgstr "Sí"
+
+#: framework/customizer/footer.php:184 framework/customizer/header.php:249
+#: framework/customizer/header.php:354 framework/customizer/misc.php:59
+#: framework/customizer/misc.php:120 framework/customizer/payments.php:31
+#: framework/customizer/payments.php:72 framework/customizer/payments.php:116
+#: framework/customizer/property.php:368 framework/customizer/search.php:113
+#: framework/customizer/search.php:437 framework/customizer/search.php:452
+#: framework/customizer/styles.php:41
+#: framework/include/shortcodes/vc-map.php:237
+#: framework/meta-box/config-meta-boxes.php:419
+msgid "No"
+msgstr "No"
+
+#: framework/customizer/footer.php:197
+msgid "Footer Background Image"
+msgstr "Imagen de fondo de pie de página"
+
+#: framework/customizer/footer.php:198
+msgid "Note: Default background image is 235px in height and 1770px in width."
+msgstr "Nota: la imagen de fondo por defecto es de 235px de altura 1770px de ancho."
+
+#: framework/customizer/gallery.php:15
+msgid "Gallery Pages"
+msgstr "Páginas de galería"
+
+#: framework/customizer/gallery.php:22
+msgid "Properties Gallery"
+msgstr "Galería de propiedades"
+
+#: framework/customizer/gallery.php:26 framework/customizer/news.php:35
+#: framework/meta-box/config-meta-boxes.php:542
+msgid "Banner Title"
+msgstr "Título del banner"
+
+#: framework/customizer/gallery.php:34
+msgid "Skim Through Available Properties"
+msgstr "Echar un vistazo a las propiedades disponibles"
+
+#: framework/customizer/gallery.php:38 framework/customizer/news.php:47
+#: framework/meta-box/config-meta-boxes.php:548
+msgid "Banner Sub Title"
+msgstr "Subtítulo del banner"
+
+#: framework/customizer/header.php:18
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: framework/customizer/header.php:30
+msgid "Header"
+msgstr "Encabezado"
+
+#: framework/customizer/header.php:40
+msgid "Social Icons"
+msgstr "Iconos de redes sociales"
+
+#: framework/customizer/header.php:50
+msgid "Show or Hide Social Icons"
+msgstr "Mostrar u ocultar iconos de redes sociales"
+
+#: framework/customizer/header.php:65 framework/functions/basic.php:367
+#: framework/meta-box/config-meta-boxes.php:500 template-edit-profile.php:143
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: framework/customizer/header.php:76 framework/functions/basic.php:368
+#: framework/meta-box/config-meta-boxes.php:506 template-edit-profile.php:148
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: framework/customizer/header.php:87 framework/functions/basic.php:370
+#: framework/meta-box/config-meta-boxes.php:518 template-edit-profile.php:158
+msgid "LinkedIn URL"
+msgstr "URL LinkedIn"
+
+#: framework/customizer/header.php:98 framework/functions/basic.php:369
+#: framework/meta-box/config-meta-boxes.php:512 template-edit-profile.php:153
+msgid "Google Plus URL"
+msgstr "URL de Google Plus"
+
+#: framework/customizer/header.php:109
+#: framework/meta-box/config-meta-boxes.php:524
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: framework/customizer/header.php:120
+msgid "YouTube URL"
+msgstr "URL de YouTube"
+
+#: framework/customizer/header.php:130
+msgid "Skype Username"
+msgstr "Nombre de Skype"
+
+#: framework/customizer/header.php:141
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: framework/customizer/header.php:152
+msgid "RSS URL"
+msgstr "URL de RSS"
+
+#: framework/customizer/header.php:163
+msgid "User Navigation"
+msgstr "Navegación del usuario"
+
+#: framework/customizer/header.php:173
+msgid "Header Navigation for User Login and Register"
+msgstr "Encabeza en navegación para Nombre de usuario y Registro"
+
+#: framework/customizer/header.php:187
+msgid "Contact Information"
+msgstr "Datos de contacto"
+
+#: framework/customizer/header.php:197
+#: framework/meta-box/config-meta-boxes.php:476
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: framework/customizer/header.php:219
+msgid "Banner"
+msgstr "Banner"
+
+#: framework/customizer/header.php:232
+msgid "Header Banner Image"
+msgstr "Imagen de banner de encabezado"
+
+#: framework/customizer/header.php:233
+msgid "Required minimum height is 230px and minimum width is 2000px."
+msgstr "La altura mínima obligatoria es de 230px y el ancho mínimo es de 2000px."
+
+#: framework/customizer/header.php:244
+msgid "Hide Title and Subtitle From Image Banner"
+msgstr "Ocultar título y subtítulo de banner de la imagen"
+
+#: framework/customizer/header.php:263
+msgid "Banner Title Color"
+msgstr "Color de título de banner"
+
+#: framework/customizer/header.php:279
+msgid "Banner Title Background Color"
+msgstr "Color de fondo de título de banner"
+
+#: framework/customizer/header.php:295
+msgid "Banner Sub Title Color"
+msgstr "Color de subtítulo de banner"
+
+#: framework/customizer/header.php:311
+msgid "Banner Sub Title Background Color"
+msgstr "Color de fondo de subtítulo de banner"
+
+#: framework/customizer/header.php:323
+msgid "Others"
+msgstr "Otros"
+
+#: framework/customizer/header.php:333
+msgid "Sticky Header"
+msgstr "Encabezado adhesivo"
+
+#: framework/customizer/header.php:348
+msgid "Display WPML Language Switcher in Top Header"
+msgstr "Mostrar selector de idioma de WPML en encabezado superior"
+
+#: framework/customizer/header.php:349
+msgid "Only works if WPML is installed."
+msgstr "Solo funciona si WPML está instalado."
+
+#: framework/customizer/header.php:379
+msgid "Header Background Color"
+msgstr "Color de fondo de encabezado"
+
+#: framework/customizer/header.php:396
+msgid "Logo Text Color"
+msgstr "Color de texto de logotipo"
+
+#: framework/customizer/header.php:413
+msgid "Logo Text Hover Color"
+msgstr "Color al desplazarse por encima del texto del logo"
+
+#: framework/customizer/header.php:430
+msgid "Tagline Text Color"
+msgstr "Color de texto de tagline"
+
+#: framework/customizer/header.php:447
+msgid "Tagline Background Color"
+msgstr "Color de fondo de tagline"
+
+#: framework/customizer/header.php:464
+msgid "Header Text Color"
+msgstr "Color de texto de encabezado"
+
+#: framework/customizer/header.php:481
+msgid "Header Links Hover Color"
+msgstr "Color al desplazarse por encima de enlaces de encabezado"
+
+#: framework/customizer/header.php:498
+msgid "Header Borders Color"
+msgstr "Color de bordes de encabezado"
+
+#: framework/customizer/header.php:515
+msgid "Main Menu Text Color"
+msgstr "Color de texto de menú principal"
+
+#: framework/customizer/header.php:532
+msgid "Drop Down Menu Background Color"
+msgstr "Color de fondo de menú desplegable"
+
+#: framework/customizer/header.php:549
+msgid "Drop Down Menu Text Color"
+msgstr "Color de texto de menú desplegable"
+
+#: framework/customizer/header.php:566
+msgid "Drop Down Menu Background Color on Mouse Over"
+msgstr "Color de fondo de menú desplegable al situar encima el ratón"
+
+#: framework/customizer/header.php:583
+msgid "Header Phone Number Background Color"
+msgstr "Color de fondo de número de teléfono de encabezado"
+
+#: framework/customizer/header.php:599
+msgid "Header Phone Number Text Color"
+msgstr "Color de texto de número de teléfono de encabezado"
+
+#: framework/customizer/header.php:615
+msgid "Header Phone Icon Background Color"
+msgstr "Color de fondo de icono de teléfono de encabezado"
+
+#: framework/customizer/home.php:37
+msgid "Home Page"
+msgstr "Página de inicio"
+
+#: framework/customizer/home.php:46
+msgid "Slider Area"
+msgstr "Área de slider"
+
+#: framework/customizer/home.php:56
+msgid "What to Display Below Header on Home Page ?"
+msgstr "¿Qué se puede mostrar en el encabezado inferior de la Página de inicio?"
+
+#: framework/customizer/home.php:60
+msgid "Slider Based on Properties Custom Post Type"
+msgstr "Slider basado tipo de publicación con propiedades personalizadas"
+
+#: framework/customizer/home.php:61
+msgid "Search Form Over an Image"
+msgstr "Formulario de búsqueda sobre una imagen"
+
+#: framework/customizer/home.php:62
+msgid "Google Map with Properties Markers"
+msgstr "Mapa de Google con marcadores de propiedades"
+
+#: framework/customizer/home.php:63
+msgid "Image Based Banner"
+msgstr "Banner basado en imagen"
+
+#: framework/customizer/home.php:64
+msgid "Slider Based on Revolution Slider Plugin."
+msgstr "Slider basado en plugin Revolution Slider."
+
+#: framework/customizer/home.php:65
+msgid "Slider Based on Slides Custom Post Type"
+msgstr "Slider en tipo de publicación con diapositivas personalizadas"
+
+#: framework/customizer/home.php:76
+msgid "Maximum Number of Slides to Display in Slider Based on Properties"
+msgstr "Cantidad máxima de diapositivas a mostrar en slider basado en propiedades"
+
+#: framework/customizer/home.php:106
+msgid "Background Image for Homepage Search Form"
+msgstr "Imagen de fondo para formulario de búsqueda de Página de inicio"
+
+#: framework/customizer/home.php:107
+msgid "Required minimum height is 1000px and minimum width is 2000px."
+msgstr "La altura mínima obligatoria es de 1000px y el ancho mínimo de 2000px."
+
+#: framework/customizer/home.php:124
+msgid "Title for Search Form Over Image"
+msgstr "Título para formulario de búsqueda sobre una imagen"
+
+#: framework/customizer/home.php:140
+msgid "Title Color"
+msgstr "Color de título"
+
+#: framework/customizer/home.php:155
+msgid "Description for Search Form Over Image"
+msgstr "Descripción para formulario de búsqueda sobre una imagen"
+
+#: framework/customizer/home.php:171
+msgid "Description Color"
+msgstr "Color de descripción"
+
+#: framework/customizer/home.php:187
+msgid "Top Margin in Pixels, For Search Form Contents"
+msgstr "Margen superior en pixeles, para contenido de formulario de búsqueda"
+
+#: framework/customizer/home.php:199
+msgid "Maximum Number of Slides to Display in Slider Based on Slides Custom Post Type"
+msgstr "Cantidad máxima de diapositivas que se mostrarán en un slider basado en tipo de publicación con diapositivas personalizadas"
+
+#: framework/customizer/home.php:223
+#: framework/meta-box/config-meta-boxes.php:563
+msgid "Revolution Slider Alias"
+msgstr "Alias de Revolution Slider"
+
+#: framework/customizer/home.php:224
+msgid "If you want to display Revolution Slider then provide its alias here."
+msgstr "Si quieres mostrar Revolution Slider, indica su alias aquí."
+
+#: framework/customizer/home.php:236
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: framework/customizer/home.php:247
+msgid "Properties Search Form on Homepage"
+msgstr "Formulario de búsqueda de propiedades en Página de inicio"
+
+#: framework/customizer/home.php:248
+msgid "You can configure properties search form using related section."
+msgstr "Puedes configurar el formulario de búsqueda de propiedades usando la sección relacionada."
+
+#: framework/customizer/home.php:264
+msgid "Slogan"
+msgstr "Eslogan"
+
+#: framework/customizer/home.php:274
+msgid "Slogan Title"
+msgstr "Título del eslogan"
+
+#: framework/customizer/home.php:285
+msgid "Description Text Below Slogan"
+msgstr "Descripción del texto situado debajo del eslogan"
+
+#: framework/customizer/home.php:296
+msgid "Home Properties"
+msgstr "Propiedades de inicio"
+
+#: framework/customizer/home.php:306
+msgid "Show or Hide Slogan + Properties on Homepage ?"
+msgstr "¿Mostrar u ocultar eslogan + Propiedades en Página de inicio?"
+
+#: framework/customizer/home.php:321
+msgid "What Kind of Properties You Want to Display on Homepage ?"
+msgstr "¿Qué tipo de propiedades deseas mostrar en la Página de inicio?"
+
+#: framework/customizer/home.php:325
+msgid "Recent Properties"
+msgstr "Propiedades recientes"
+
+#: framework/customizer/home.php:326 framework/customizer/home.php:459
+msgid "Featured Properties"
+msgstr "Propiedades destacadas"
+
+#: framework/customizer/home.php:327
+msgid "Properties Based on Selected Locations, Statuses and Types from Below"
+msgstr "Propiedades basadas en ubicaciones seleccionadas, estados y tipos relacionados a continuación"
+
+#: framework/customizer/home.php:343
+msgid "Select Property Locations"
+msgstr "Seleccionar ubicaciones de propiedades"
+
+#: framework/customizer/home.php:362
+msgid "Select Property Statuses"
+msgstr "Seleccionar estados de propiedades"
+
+#: framework/customizer/home.php:381
+msgid "Select Property Types"
+msgstr "Seleccionar tipos de propiedades"
+
+#: framework/customizer/home.php:394
+msgid "Sort Properties By"
+msgstr "Ordenar propiedades por"
+
+#: framework/customizer/home.php:398
+msgid "Time - Recent First"
+msgstr "Antigüedad - Recientes primero"
+
+#: framework/customizer/home.php:399
+#: framework/customizer/list-and-taxonomy.php:97
+msgid "Price - Low to High"
+msgstr "Precio - De menor a mayor"
+
+#: framework/customizer/home.php:400
+#: framework/customizer/list-and-taxonomy.php:98
+msgid "Price - High to Low"
+msgstr "Precio - De mayor a menor"
+
+#: framework/customizer/home.php:401
+#: widgets/agent-featured-properties-widget.php:138
+#: widgets/agent-properties-widget.php:145
+#: widgets/featured-properties-widget.php:126
+msgid "Random"
+msgstr "Aleatorio"
+
+#: framework/customizer/home.php:411
+msgid "Number of Properties on Each Page"
+msgstr "Cantidad de propiedades en cada página"
+
+#: framework/customizer/home.php:444
+msgid "AJAX Pagination"
+msgstr "Paginación AJAX"
+
+#: framework/customizer/home.php:469
+msgid "Featured Properties on Homepage"
+msgstr "Propiedades destacadas en la Página de inicio\b"
+
+#: framework/customizer/home.php:484 framework/customizer/home.php:546
+#: framework/include/additional-details-metabox.php:100
+#: template-parts/submit-fields/additional-details.php:27
+msgid "Title"
+msgstr "Título"
+
+#: framework/customizer/home.php:495 framework/customizer/home.php:557
+msgid "Description Text"
+msgstr "Texto descriptivo"
+
+#: framework/customizer/home.php:506
+msgid "Exclude or Include Featured Properties from Recent Properties on Homepage"
+msgstr "Excluir o incluir propiedades destacadas de propiedades recientes en la Página de inicio"
+
+#: framework/customizer/home.php:521
+msgid "News or Blog Posts"
+msgstr "Noticias o publicaciones de blog\b"
+
+#: framework/customizer/home.php:531
+msgid "News Posts on Homepage"
+msgstr "Publicaciones de noticias en la Página de inicio\b"
+
+#: framework/customizer/list-and-taxonomy.php:15
+msgid "List Templates & Taxonomy Archives"
+msgstr "Plantillas de listas y archivos de taxonomía"
+
+#: framework/customizer/list-and-taxonomy.php:26
+msgid "Module Below Header"
+msgstr "Módulo debajo del encabezado\b"
+
+#: framework/customizer/list-and-taxonomy.php:27
+msgid "What to display in area below header on Properties List Templates and Taxonomy Archive pages ?"
+msgstr "¿Qué mostrar en el área bajo el encabezado en las plantillas de lista de propiedades y páginas de archivo de taxonomía?"
+
+#: framework/customizer/list-and-taxonomy.php:31
+msgid "Google Map With Properties Markers"
+msgstr "Mapa de Google con marcadores de propiedades"
+
+#: framework/customizer/list-and-taxonomy.php:32
+#: framework/customizer/search.php:63
+msgid "Image Banner"
+msgstr "Banner de imagen"
+
+#: framework/customizer/list-and-taxonomy.php:42
+msgid "Default Layout"
+msgstr "Diseño por defecto"
+
+#: framework/customizer/list-and-taxonomy.php:43
+msgid "Select the default layout for Properties List Templates and Taxonomy Archive pages."
+msgstr "Selecciona el diseño por defecto para las plantillas de lista de propiedades y las páginas de archivo de taxonomía."
+
+#: framework/customizer/list-and-taxonomy.php:47
+msgid "List Layout"
+msgstr "Diseño de lista"
+
+#: framework/customizer/list-and-taxonomy.php:48
+msgid "Grid Layout"
+msgstr "Diseño de cuadrícula"
+
+#: framework/customizer/list-and-taxonomy.php:58
+#: framework/include/shortcodes/vc-map.php:60
+#: widgets/agent-featured-properties-widget.php:142
+#: widgets/agent-properties-widget.php:149
+#: widgets/featured-properties-widget.php:119
+msgid "Number of Properties"
+msgstr "Cantidad de propiedades"
+
+#: framework/customizer/list-and-taxonomy.php:59
+msgid "Select the maximum number of properties to display on a page."
+msgstr "Selecciona la cantidad máxima de propiedades que se mostrarán en una página."
+
+#: framework/customizer/list-and-taxonomy.php:92
+msgid "Default Sort Order"
+msgstr "Orden de clasificación por defecto\b"
+
+#: framework/customizer/list-and-taxonomy.php:93
+msgid "Select the default sort order for Search Results, List Templates and Taxonomy Archive pages."
+msgstr "Selecciona el orden de clasificación por defecto para los resultados de búsqueda, plantillas de lista y páginas de archivo de taxonomía."
+
+#: framework/customizer/list-and-taxonomy.php:99
+msgid "Date - Old to New"
+msgstr "Antigüedad - De mayor a menor"
+
+#: framework/customizer/list-and-taxonomy.php:100
+msgid "Date - New to Old"
+msgstr "Antigüedad - De menor a mayor"
+
+#: framework/customizer/members.php:15
+msgid "Members"
+msgstr "Miembros"
+
+#: framework/customizer/members.php:24 framework/customizer/styles.php:25
+msgid "Basic"
+msgstr "Básico"
+
+#: framework/customizer/members.php:35
+msgid "Restrict Admin Side Access"
+msgstr "Restringir acceso al lado de administración"
+
+#: framework/customizer/members.php:36
+msgid "Restrict admin side access to any user level equal to or below the selected user level."
+msgstr "Restringir acceso al lado de administración a cualquier nivel de usuario igual o inferior al nivel de usuario seleccionado."
+
+#: framework/customizer/members.php:40
+msgid "Subscriber ( Level 0 )"
+msgstr "Suscriptor (Nivel 0)"
+
+#: framework/customizer/members.php:41
+msgid "Contributor ( Level 1 )"
+msgstr "Contribuyente (Nivel 1)"
+
+#: framework/customizer/members.php:42
+msgid "Author ( Level 2 )"
+msgstr "Autor (Nivel 2)"
+
+#: framework/customizer/members.php:53
+msgid "Login & Register"
+msgstr "Inicio de sesión y registro"
+
+#: framework/customizer/members.php:64
+msgid "Login in Header"
+msgstr "Inicio de sesión en encabezado"
+
+#: framework/customizer/members.php:68 framework/customizer/news.php:62
+#: framework/customizer/property.php:148 framework/customizer/property.php:164
+msgid "Enable"
+msgstr "Activar"
+
+#: framework/customizer/members.php:69 framework/customizer/news.php:63
+#: framework/customizer/property.php:149 framework/customizer/property.php:165
+msgid "Disable"
+msgstr "Desactivar"
+
+#: framework/customizer/members.php:79
+msgid "Select Login and Register Page (Optional)"
+msgstr "Seleccionar página de inicio de sesión y registro (opcional)"
+
+#: framework/customizer/members.php:80
+msgid "Selected page should have Login & Register Template assigned to it. By default the login modal box will appear and you do not need to configure this option."
+msgstr "La página seleccionada debe tener asignada una plantilla de Inicio de sesión y Registro. El cuadro de inicio de sesión aparecerá por defecto y no tienes que configurar esta opción."
+
+#: framework/customizer/members.php:105
+msgid "Login & Register Page URL (Optional)"
+msgstr "URL de página de inicio de sesión y registro (opcional)"
+
+#: framework/customizer/members.php:117
+msgid "Edit Profile"
+msgstr "Editar perfil"
+
+#: framework/customizer/members.php:126
+msgid "Select Edit Profile Page"
+msgstr "Seleccionar edición de perfil de página\b"
+
+#: framework/customizer/members.php:127
+msgid "Selected page should have Edit Profile Template assigned to it."
+msgstr "La página seleccionada debe tener asignada una plantilla de edición de perfil."
+
+#: framework/customizer/members.php:152
+msgid "Edit Profile Page URL"
+msgstr "Editar URL de página de perfil"
+
+#: framework/customizer/members.php:164
+#: template-parts/submit-fields/submit-button.php:15
+msgid "Submit Property"
+msgstr "Enviar propiedad"
+
+#: framework/customizer/members.php:173
+msgid "Select Submit Property Page"
+msgstr "Seleccionar envío de página de perfil"
+
+#: framework/customizer/members.php:174
+msgid "Selected page should have Submit Property Template assigned to it."
+msgstr "La página seleccionada debe tener asignada una plantilla de envío de propiedad."
+
+#: framework/customizer/members.php:215
+msgid "Which fields you want to display in submit form ?"
+msgstr "¿Qué campos quieres mostrar en el formulario de envío?"
+
+#: framework/customizer/members.php:217
+#: framework/include/property-post-type.php:284
+#: template-parts/submit-fields/title.php:2
+msgid "Property Title"
+msgstr "Título de la propiedad"
+
+#: framework/customizer/members.php:218
+#: template-parts/submit-fields/description.php:2
+msgid "Property Description"
+msgstr "Descripción de la propiedad"
+
+#: framework/customizer/members.php:219
+#: framework/include/property-post-type.php:287
+#: template-parts/submit-fields/property-type.php:2
+msgid "Type"
+msgstr "Tipo"
+
+#: framework/customizer/members.php:220
+#: framework/include/property-post-type.php:288
+#: template-parts/submit-fields/property-status.php:2
+msgid "Status"
+msgstr "Estado"
+
+#: framework/customizer/members.php:221
+msgid "Location"
+msgstr "Ubicación"
+
+#: framework/customizer/members.php:222
+#: framework/meta-box/config-meta-boxes.php:142
+#: framework/meta-box/config-meta-boxes.php:281
+#: property-details/property-floor-plans.php:46
+#: property-details/property-metas.php:18
+#: template-parts/submit-fields/bedrooms.php:2
+msgid "Bedrooms"
+msgstr "Habitaciones"
+
+#: framework/customizer/members.php:223
+#: framework/meta-box/config-meta-boxes.php:151
+#: framework/meta-box/config-meta-boxes.php:288
+#: property-details/property-floor-plans.php:57
+#: property-details/property-metas.php:27
+#: template-parts/submit-fields/bathrooms.php:2
+msgid "Bathrooms"
+msgstr "Cuartos de baño"
+
+#: framework/customizer/members.php:224
+#: framework/meta-box/config-meta-boxes.php:160
+#: property-details/property-metas.php:36
+#: template-parts/submit-fields/garages.php:2
+msgid "Garages"
+msgstr "Garajes"
+
+#: framework/customizer/members.php:225 framework/customizer/search.php:179
+#: framework/customizer/search.php:244 framework/functions/real-estate.php:105
+#: framework/include/property-post-type.php:290
+#: framework/meta-box/config-meta-boxes.php:169
+#: property-details/property-contents.php:9
+#: template-parts/search-fields/property-id.php:11
+#: template-parts/submit-fields/property-id.php:2
+#: template-parts/submit-fields/property-id.php:10
+msgid "Property ID"
+msgstr "ID de la propiedad"
+
+#: framework/customizer/members.php:226
+#: framework/include/property-post-type.php:289
+#: framework/include/shortcodes/vc-map.php:89
+msgid "Price"
+msgstr "Precio"
+
+#: framework/customizer/members.php:227
+#: framework/meta-box/config-meta-boxes.php:115
+#: framework/meta-box/config-meta-boxes.php:260
+msgid "Price Postfix"
+msgstr "Postfijo de precio"
+
+#: framework/customizer/members.php:228
+#: template-parts/submit-fields/area.php:2
+msgid "Area"
+msgstr "Área"
+
+#: framework/customizer/members.php:229
+msgid "Area Postfix"
+msgstr "Postfijo de área"
+
+#: framework/customizer/members.php:230 framework/customizer/property.php:225
+msgid "Video"
+msgstr "Vídeo"
+
+#: framework/customizer/members.php:231
+msgid "Property Images"
+msgstr "Imágenes de la propiedad"
+
+#: framework/customizer/members.php:232
+msgid "Address and Google Map"
+msgstr "Dirección y mapa de Google"
+
+#: framework/customizer/members.php:233 framework/customizer/property.php:88
+#: framework/include/additional-details-metabox.php:70
+#: template-parts/submit-fields/additional-details.php:23
+msgid "Additional Details"
+msgstr "Datos adicionales"
+
+#: framework/customizer/members.php:234
+msgid "Mark as Featured Checkbox"
+msgstr "Marcar como casilla destacada"
+
+#: framework/customizer/members.php:235 framework/customizer/property.php:101
+#: framework/include/shortcodes/vc-map.php:244
+#: framework/meta-box/config-meta-boxes.php:668
+#: template-parts/submit-fields/features.php:2
+msgid "Features"
+msgstr "Funciones"
+
+#: framework/customizer/members.php:236 framework/customizer/property.php:337
+#: framework/include/agent-post-type.php:9
+#: framework/meta-box/config-meta-boxes.php:344
+#: property-details/property-agent-for-sidebar.php:198
+#: property-details/property-agent.php:206
+msgid "Agent"
+msgstr "Agente"
+
+#: framework/customizer/members.php:237
+#: template-parts/submit-fields/parent.php:28
+msgid "Parent Property"
+msgstr "Propiedad principal"
+
+#: framework/customizer/members.php:238
+#: framework/meta-box/config-meta-boxes.php:404
+msgid "Message to Reviewer"
+msgstr "Mensaje al revisor"
+
+#: framework/customizer/members.php:251
+msgid "Submitted Property Status"
+msgstr "Estado de la propiedad enviada"
+
+#: framework/customizer/members.php:252
+msgid "Select the default status for submitted property."
+msgstr "Selecciona el estado por defecto para la propiedad enviada."
+
+#: framework/customizer/members.php:256
+msgid "Pending ( Recommended )"
+msgstr "Pendiente (Recomendado)"
+
+#: framework/customizer/members.php:257
+msgid "Publish"
+msgstr "Publicar"
+
+#: framework/customizer/members.php:268
+msgid "Default Address in Submit Form"
+msgstr "Dirección por defecto en el formulario de envío"
+
+#: framework/customizer/members.php:280
+msgid "Default Map Location in Submit Form (Latitude,Longitude)"
+msgstr "Mapa de ubicación por defecto en el formulario de envío (latitud, longitud)"
+
+#: framework/customizer/members.php:289
+msgid "Thanks for Submitting Property!"
+msgstr "¡Gracias por enviar la propiedad!"
+
+#: framework/customizer/members.php:294
+msgid "Message After Successful Submit"
+msgstr "Mensaje después de envío correcto\b"
+
+#: framework/customizer/members.php:307
+msgid "Submit Notice Email"
+msgstr "Enviar correo electrónico de aviso"
+
+#: framework/customizer/members.php:331
+msgid "Submit Property Page URL"
+msgstr "Enviar URL de página de propiedad"
+
+#: framework/customizer/members.php:343 template-parts/user-nav.php:39
+msgid "My Properties"
+msgstr "Mis propiedades"
+
+#: framework/customizer/members.php:352
+msgid "Select My Properties Page"
+msgstr "Seleccionar página Mis propiedades"
+
+#: framework/customizer/members.php:353
+msgid "Selected page should have My Properties Template assigned to it."
+msgstr "La página seleccionada debe tener asignada la plantilla Mis propiedades."
+
+#: framework/customizer/members.php:378
+msgid "My Properties Page URL"
+msgstr "URL de página Mis propiedades"
+
+#: framework/customizer/members.php:390 template-parts/user-nav.php:18
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: framework/customizer/members.php:400
+msgid "Add to Favorites Button on Property Detail Page"
+msgstr "Botón Añadir a favoritos en página Detalles de la propiedad"
+
+#: framework/customizer/members.php:414
+msgid "Select Favorite Properties Page"
+msgstr "Seleccionar página de propiedades favoritas"
+
+#: framework/customizer/members.php:415
+msgid "Selected page should have Favorite Properties Template assigned to it."
+msgstr "La página seleccionada debe tener asignada una plantilla de propiedades favoritas."
+
+#: framework/customizer/members.php:440
+msgid "Favorite Properties Page URL"
+msgstr "URL de página de propiedades favoritas\b"
+
+#: framework/customizer/misc.php:15
+#: framework/meta-box/config-meta-boxes.php:88
+msgid "Misc"
+msgstr "Varios"
+
+#: framework/customizer/misc.php:25
+msgid "Lightbox Plugin"
+msgstr "Plugin Lightbox"
+
+#: framework/customizer/misc.php:26
+msgid "Select the lightbox plugin that you want to use"
+msgstr "Selecciona el plugin lightbox que quieres usar"
+
+#: framework/customizer/misc.php:30
+msgid "Swipebox Plugin"
+msgstr "Plugin Swipebox"
+
+#: framework/customizer/misc.php:31
+msgid "Pretty Photo Plugin"
+msgstr "Plugin Pretty Photo"
+
+#: framework/customizer/misc.php:53
+msgid "Google reCAPTCHA for Spam Protection"
+msgstr "Google reCAPTCHA para protección antispam"
+
+#: framework/customizer/misc.php:54
+msgid "Do you want to enable Google reCAPTCHA on contact forms ?"
+msgstr "¿Quieres activar el reCAPTCHA de Google en los formularios de contacto?"
+
+#: framework/customizer/misc.php:69
+msgid "Google reCAPTCHA Public Key"
+msgstr "Clave pública de reCAPTCHA de Google"
+
+#: framework/customizer/misc.php:70
+msgid "Get reCAPTCHA public and private keys for your website by <a href=\"https://www.google.com/recaptcha/admin#whyrecaptcha\" target=\"_blank\">signing up here</a> "
+msgstr "Consigue claves privadas y públicas de reCAPTCHA para tu sitio web <a href=\"https://www.google.com/recaptcha/admin#whyrecaptcha\" target=\"_blank\">registrándote aquí</a> "
+
+#: framework/customizer/misc.php:81
+msgid "Google reCAPTCHA Private Key"
+msgstr "Clave privada de reCAPTCHA de Google"
+
+#: framework/customizer/misc.php:104
+msgid "Google Maps API Key"
+msgstr "Clave API de Google Maps"
+
+#: framework/customizer/misc.php:115
+msgid "Localize Google Map"
+msgstr "Localizar Google Map"
+
+#: framework/customizer/news.php:15
+msgid "Various Pages"
+msgstr "Varias páginas"
+
+#: framework/customizer/news.php:24
+msgid "News/Blog Page"
+msgstr "Página de noticias/blog"
+
+#: framework/customizer/news.php:58
+msgid "Link to Previous and Next Post"
+msgstr "Enlace a publicación anterior y siguiente\b"
+
+#: framework/customizer/payments.php:14
+msgid "Payments"
+msgstr "Pagos"
+
+#: framework/customizer/payments.php:26
+msgid "Enable PayPal Payments for Submitted Property"
+msgstr "Activar pagos por PayPal para la propiedad enviada"
+
+#: framework/customizer/payments.php:42
+msgid "PayPal IPN URL"
+msgstr "URL de IPN de PayPal\b"
+
+#: framework/customizer/payments.php:55
+msgid "PayPal merchant account ID or Email"
+msgstr "ID o correo electrónico de cuenta de comerciante de PayPal"
+
+#: framework/customizer/payments.php:67
+msgid "Enable PayPal Sandbox for Testing"
+msgstr "Activar PayPal Sandbox para pruebas"
+
+#: framework/customizer/payments.php:84
+msgid "Payment Amount Per Property"
+msgstr "Importe del pago por propiedad"
+
+#: framework/customizer/payments.php:85
+msgid "Provide the amount that you want to charge for one property. Example: 20.00"
+msgstr "Indica el importe que quieres cobrar por un propiedad. Ejemplo: 20,00"
+
+#: framework/customizer/payments.php:98
+msgid "Currency Code"
+msgstr "Código de divisa"
+
+#: framework/customizer/payments.php:99
+msgid "Provide currency code that you want to use. Example: USD"
+msgstr "Indica el código de la divisa que quieres usar. Ejemplo: USD"
+
+#: framework/customizer/payments.php:111
+msgid "Automatically Publish Submitted Property after Payment"
+msgstr "Publicar automáticamente la propiedad enviada después del pago"
+
+#: framework/customizer/price-format.php:15
+msgid "Price Format"
+msgstr "Formato de precio"
+
+#: framework/customizer/price-format.php:26
+msgid "Currency Sign"
+msgstr "Símbolo de divisa"
+
+#: framework/customizer/price-format.php:27
+msgid "Provide currency sign. For Example: $"
+msgstr "Indica el símbolo de la divisa. Por ejemplo: $"
+
+#: framework/customizer/price-format.php:38
+msgid "Position of Currency Sign"
+msgstr "Posición del símbolo de la divisa"
+
+#: framework/customizer/price-format.php:42
+msgid "Before the numbers"
+msgstr "Antes de los números\b"
+
+#: framework/customizer/price-format.php:43
+msgid "After the numbers"
+msgstr "Después de los números"
+
+#: framework/customizer/price-format.php:53
+msgid "Number of Decimals Points"
+msgstr "Cantidad de decimales"
+
+#: framework/customizer/price-format.php:78
+msgid "Decimal Point Separator"
+msgstr "Separador de decimales"
+
+#: framework/customizer/price-format.php:90
+msgid "Thousands Separator"
+msgstr "Separador de miles"
+
+#: framework/customizer/price-format.php:101
+msgid "Empty Price Text"
+msgstr "Texto de precio vacío\b"
+
+#: framework/customizer/price-format.php:102
+msgid "Text to display when no price is provided."
+msgstr "Texto para mostrar cuando no se indica ningún precio."
+
+#: framework/customizer/property.php:16
+msgid "Property Detail Page"
+msgstr "Página Detalles de la propiedad"
+
+#: framework/customizer/property.php:25
+msgid "Breadcrumbs"
+msgstr "Migas"
+
+#: framework/customizer/property.php:35
+msgid "Property Breadcrumbs"
+msgstr "Migas de pan de la propiedad"
+
+#: framework/customizer/property.php:50
+msgid "Breadcrumbs will be based on"
+msgstr "Las migas de pan se basarán en"
+
+#: framework/customizer/property.php:54
+#: framework/include/property-post-type.php:127
+#: framework/include/property-post-type.php:128
+msgid "Property City"
+msgstr "Ciudad de la propiedad"
+
+#: framework/customizer/property.php:55 framework/customizer/search.php:182
+#: framework/customizer/search.php:292
+#: framework/include/property-post-type.php:97
+#: framework/include/property-post-type.php:98
+#: template-parts/search-fields/type.php:10
+msgid "Property Type"
+msgstr "Tipo de propiedad"
+
+#: framework/customizer/property.php:56 framework/customizer/search.php:181
+#: framework/customizer/search.php:280 framework/functions/real-estate.php:106
+#: framework/include/property-post-type.php:158
+#: framework/include/property-post-type.php:159
+#: framework/include/property-post-type.php:172
+#: template-parts/search-fields/status.php:10
+msgid "Property Status"
+msgstr "Estado de la propiedad"
+
+#: framework/customizer/property.php:66
+msgid "Basics"
+msgstr "Principios básicos"
+
+#: framework/customizer/property.php:76
+msgid "Property Detail Page Layout Variation ?"
+msgstr "¿Cambio de diseño de página Detalles de la propiedad?"
+
+#: framework/customizer/property.php:80
+msgid "Agent info below Google Map"
+msgstr "Datos del agente debajo del mapa de Google"
+
+#: framework/customizer/property.php:81
+msgid "Agent info in Sidebar"
+msgstr "Datos del agente en barra lateral\b"
+
+#: framework/customizer/property.php:92
+msgid "Additional Details Title"
+msgstr "Título de detalles adicionales"
+
+#: framework/customizer/property.php:93
+msgid "This will only display if a property has additional details."
+msgstr "Solo se mostrará si la propiedad tiene detalles adicionales."
+
+#: framework/customizer/property.php:105
+msgid "Features Title"
+msgstr "Título de prestaciones"
+
+#: framework/customizer/property.php:116
+msgid "Social Share Icons"
+msgstr "Iconos para compartir en redes sociales\b"
+
+#: framework/customizer/property.php:128
+msgid "Sub Properties"
+msgstr "Subpropiedades"
+
+#: framework/customizer/property.php:132
+msgid "Child Properties Title"
+msgstr "Título de propiedades secundarias"
+
+#: framework/customizer/property.php:133
+msgid "This will only display if a property has child properties."
+msgstr "Solo se mostrará si la propiedad tiene propiedades secundarias."
+
+#: framework/customizer/property.php:144
+msgid "Open Graph Meta Tags"
+msgstr "Abrir metaetiquetas de gráfico"
+
+#: framework/customizer/property.php:160
+msgid "Link to Previous and Next Property"
+msgstr "Enlace a la propiedad anterior y siguiente\b"
+
+#: framework/customizer/property.php:176 framework/customizer/property.php:186
+#: framework/customizer/property.php:213
+msgid "Common Note"
+msgstr "Nota habitual"
+
+#: framework/customizer/property.php:198
+msgid "Note"
+msgstr "Nota"
+
+#: framework/customizer/property.php:202
+msgid "Common Note Title"
+msgstr "Título de nota habitual"
+
+#: framework/customizer/property.php:214
+msgid "Provide common note text. It will be displayed on all properties detail pages."
+msgstr "Indica el texto de la nota habitual. Se mostrará en todas las páginas de detalles de la propiedad."
+
+#: framework/customizer/property.php:235 framework/customizer/property.php:247
+#: framework/meta-box/config-meta-boxes.php:80
+msgid "Property Video"
+msgstr "Vídeo de la propiedad"
+
+#: framework/customizer/property.php:251
+msgid "Property Video Title"
+msgstr "Título del vídeo de la propiedad"
+
+#: framework/customizer/property.php:262
+msgid "Map"
+msgstr "Mapa"
+
+#: framework/customizer/property.php:272
+msgid "Google Map"
+msgstr "Mapa de Google"
+
+#: framework/customizer/property.php:284
+msgid "Property on Map"
+msgstr "Propiedad en el mapa"
+
+#: framework/customizer/property.php:288
+msgid "Property Map Title"
+msgstr "Título del mapa de la propiedad\b"
+
+#: framework/customizer/property.php:299
+#: framework/meta-box/config-meta-boxes.php:365
+msgid "Attachments"
+msgstr "Anexos"
+
+#: framework/customizer/property.php:309 framework/customizer/property.php:322
+msgid "Property Attachments"
+msgstr "Anexos de la propiedad"
+
+#: framework/customizer/property.php:310
+msgid "Attachments will only appear if there are any."
+msgstr "Los anexos solo aparecerán en caso de que haya alguno."
+
+#: framework/customizer/property.php:326
+msgid "Property Attachments Title"
+msgstr "Título de los anexos de la propiedad"
+
+#: framework/customizer/property.php:347
+#: framework/meta-box/config-meta-boxes.php:84
+msgid "Agent Information"
+msgstr "Información del agente"
+
+#: framework/customizer/property.php:363
+msgid "Get Copy of Message Sent to Agent"
+msgstr "Recibir una copia del mensaje enviado al agente"
+
+#: framework/customizer/property.php:379
+msgid "Email Address to Get Copy of Message"
+msgstr "Dirección de correo electrónico para recibir copia del mensaje"
+
+#: framework/customizer/property.php:380
+msgid "Given email address will get a copy of message sent to agent."
+msgstr "La dirección de correo electrónico indicada recibirá una copia del mensaje enviado al agente."
+
+#: framework/customizer/property.php:392 framework/customizer/property.php:402
+#: framework/customizer/property.php:414
+msgid "Similar Properties"
+msgstr "Propiedades similares"
+
+#: framework/customizer/property.php:418
+msgid "Similar Properties Title"
+msgstr "Título de propiedades similares"
+
+#: framework/customizer/search.php:25
+msgid "Properties Search"
+msgstr "Búsqueda de propiedades"
+
+#: framework/customizer/search.php:35
+msgid "Properties Search Page"
+msgstr "Página de búsqueda de propiedades"
+
+#: framework/customizer/search.php:44
+msgid "Select Search Page"
+msgstr "Seleccionar página de búsqueda"
+
+#: framework/customizer/search.php:45
+msgid "Selected page should have Property Search Template assigned to it. Also, Make sure to Configure Pretty Permalinks."
+msgstr "La página seleccionada debe tener asignada una plantilla de búsqueda de propiedades. Asegúrate de configurar también los enlaces permanentes humanos."
+
+#: framework/customizer/search.php:57
+msgid "Search Results Page Header"
+msgstr "Encabezado de página de resultados de búsqueda\b"
+
+#: framework/customizer/search.php:58
+msgid "What you want to display in area below header on properties search results page ?"
+msgstr "¿Qué quieres mostrar en el área bajo el encabezado en la página de resultados de búsqueda de propiedades?"
+
+#: framework/customizer/search.php:62
+msgid "Google Map with Property Markers"
+msgstr "Mapa de Google con marcadores de propiedad"
+
+#: framework/customizer/search.php:73
+msgid "Properties Per Page"
+msgstr "Propiedades por página"
+
+#: framework/customizer/search.php:74
+msgid "Number of properties to display on search results page"
+msgstr "Cantidad de propiedades que se mostrará en la página de resultados de búsqueda"
+
+#: framework/customizer/search.php:107
+msgid "Display Featured Properties on Top in Search Results Page?"
+msgstr "¿Mostrar propiedades destacadas en la parte superior de la página de resultados de búsqueda?"
+
+#: framework/customizer/search.php:108
+msgid "This setting will be applied on sorting based on Sort by Date (Old to New and New to Old) only."
+msgstr "Este ajuste se aplicará únicamente en la clasificación basada en Ordenar por fecha (de mayor a menor antigüedad o de menor a mayor antigüedad)."
+
+#: framework/customizer/search.php:135
+msgid "Search Page URL"
+msgstr "URL de página de búsqueda"
+
+#: framework/customizer/search.php:148
+msgid "Search Form Basics"
+msgstr "Principios básicos del formulario de búsqueda"
+
+#: framework/customizer/search.php:156 widgets/advance-search-widget.php:35
+msgid "Find Your Home"
+msgstr "Encuentra tu casa"
+
+#: framework/customizer/search.php:159
+msgid "Search Form Title"
+msgstr "Título del formulario de búsqueda"
+
+#: framework/customizer/search.php:176
+msgid "Which fields you want to display in search form ?"
+msgstr "¿Qué campos quieres mostrar en el formulario de búsqueda?"
+
+#: framework/customizer/search.php:178
+msgid "Keyword Search"
+msgstr "Búsqueda por palabra clave"
+
+#: framework/customizer/search.php:180
+msgid "Property Location"
+msgstr "Ubicación de la propiedad"
+
+#: framework/customizer/search.php:183 framework/customizer/search.php:469
+#: template-parts/search-fields/min-beds.php:10
+msgid "Min Beds"
+msgstr "Mínimo de habitaciones"
+
+#: framework/customizer/search.php:184 framework/customizer/search.php:494
+#: template-parts/search-fields/min-baths.php:10
+msgid "Min Baths"
+msgstr "Mínimo de cuartos de baño"
+
+#: framework/customizer/search.php:185
+msgid "Min and Max Price"
+msgstr "Precio mín. y máx."
+
+#: framework/customizer/search.php:186
+msgid "Min and Max Area"
+msgstr "Área mín. y máx.\b"
+
+#: framework/customizer/search.php:187
+#: framework/include/property-post-type.php:66
+#: framework/include/property-post-type.php:67
+#: framework/include/property-post-type.php:80
+msgid "Property Features"
+msgstr "Prestaciones de la propiedad"
+
+#: framework/customizer/search.php:208
+#: template-parts/search-fields/keyword.php:11
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: framework/customizer/search.php:212
+msgid "Label for Keyword Search"
+msgstr "Etiqueta para búsqueda por palabra clave"
+
+#: framework/customizer/search.php:220 framework/customizer/search.php:256
+#: framework/customizer/search.php:328 framework/customizer/search.php:640
+#: framework/customizer/search.php:664
+#: framework/functions/real-estate-search.php:98
+msgid "Any"
+msgstr "Cualquiera"
+
+#: framework/customizer/search.php:224
+msgid "Placeholder Text for Keyword Search"
+msgstr "Texto de marcador para búsqueda por palabra clave"
+
+#: framework/customizer/search.php:248
+msgid "Label for Property ID"
+msgstr "Etiqueta para ID de propiedad"
+
+#: framework/customizer/search.php:260
+msgid "Placeholder Text for Property ID"
+msgstr "Texto de marcador para ID de propiedad\b"
+
+#: framework/customizer/search.php:284
+msgid "Label for Property Status"
+msgstr "Etiqueta para el estado de la propiedad"
+
+#: framework/customizer/search.php:296
+msgid "Label for Property Type"
+msgstr "Etiqueta para el tipo de propiedad\b"
+
+#: framework/customizer/search.php:304
+#: template-parts/search-fields/button.php:8
+msgid "Search"
+msgstr "Buscar"
+
+#: framework/customizer/search.php:308
+msgid "Search Button Text"
+msgstr "Texto del botón Buscar"
+
+#: framework/customizer/search.php:332
+msgid "Any Text"
+msgstr "Cualquier texto"
+
+#: framework/customizer/search.php:340
+#: template-parts/search-fields/features.php:28
+msgid "Looking for certain features"
+msgstr "Buscar determinadas prestaciones\b"
+
+#: framework/customizer/search.php:344
+msgid "Title for Features Toggle"
+msgstr "Título para alternar prestaciones\b"
+
+#: framework/customizer/search.php:355
+msgid "Search Form Locations"
+msgstr "Ubicaciones del formulario de búsqueda\b"
+
+#: framework/customizer/search.php:365
+msgid "Number of Location Select Boxes"
+msgstr "Cantidad de casillas de selección de ubicación"
+
+#: framework/customizer/search.php:366
+msgid "In case of 1 location box, all locations will be listed in that select box. In case of 2 or more, Each select box will list parent locations of a level that matches its number and all the remaining children locations will be listed in last select box."
+msgstr "En caso de que haya 1 casilla de ubicación, todas las ubicaciones figurarán en esa casilla de selección. En caso de que haya dos casillas o más, en cada casilla de selección figurarán las ubicaciones principales de un nivel que coincida con su número y el resto de ubicaciones secundarios figurarán en la última casilla de selección."
+
+#: framework/customizer/search.php:383
+msgid "Title for 1st Location Select Box"
+msgstr "Título para la 1ª casilla de selección de ubicación"
+
+#: framework/customizer/search.php:384
+msgid "Example: Country"
+msgstr "Ejemplo: País"
+
+#: framework/customizer/search.php:395
+msgid "Title for 2nd Location Select Box"
+msgstr "Título para la 2ª casilla de selección de ubicación"
+
+#: framework/customizer/search.php:396
+msgid "Example: State"
+msgstr "Ejemplo: Estado"
+
+#: framework/customizer/search.php:407
+msgid "Title for 3rd Location Select Box"
+msgstr "Título para la 3ª casilla de selección de ubicación"
+
+#: framework/customizer/search.php:408
+msgid "Example: City"
+msgstr "Ejemplo: Ciudad"
+
+#: framework/customizer/search.php:419
+msgid "Title for 4th Location Select Box"
+msgstr "Título para la 4ª casilla de selección de ubicación"
+
+#: framework/customizer/search.php:420
+msgid "Example: Area"
+msgstr "Ejemplo: área"
+
+#: framework/customizer/search.php:431
+msgid "Hide Empty Locations ?"
+msgstr "¿Ocultar ubicaciones vacías?"
+
+#: framework/customizer/search.php:432
+msgid "Optimize Locations by hiding the ones with zero property."
+msgstr "Puedes optimizar las ubicaciones ocultando las zonas que no tienen ninguna propiedad."
+
+#: framework/customizer/search.php:447
+msgid "Sort Locations Alphabetically ?"
+msgstr "¿Ordenar propiedades alfabéticamente?"
+
+#: framework/customizer/search.php:462
+msgid "Search Form Beds & Baths"
+msgstr "Habitaciones y baños de formulario de búsqueda\b"
+
+#: framework/customizer/search.php:473
+msgid "Label for Min Beds Field"
+msgstr "Etiqueta para campo de habitaciones mín."
+
+#: framework/customizer/search.php:485
+msgid "Minimum Beds Values"
+msgstr "Valores mínimos de habitaciones"
+
+#: framework/customizer/search.php:486 framework/customizer/search.php:511
+msgid "Only provide comma separated numbers."
+msgstr "Indica solamente números separados por comas."
+
+#: framework/customizer/search.php:498
+msgid "Label for Min Baths Field"
+msgstr "Etiqueta para campo de baños mín."
+
+#: framework/customizer/search.php:510
+msgid "Minimum Baths Values"
+msgstr "Valores mínimos de baños"
+
+#: framework/customizer/search.php:522
+msgid "Search Form Prices"
+msgstr "Precios del formulario de búsqueda"
+
+#: framework/customizer/search.php:529
+#: template-parts/search-fields/min-max-price.php:11
+#: template-parts/search-fields/min-max-price.php:38
+msgid "Min Price"
+msgstr "Precio mín."
+
+#: framework/customizer/search.php:533
+msgid "Label for Min Price Field"
+msgstr "Etiqueta para campo de precio mín."
+
+#: framework/customizer/search.php:545
+msgid "Minimum Prices List"
+msgstr "Lista de precios mínimos"
+
+#: framework/customizer/search.php:546 framework/customizer/search.php:571
+#: framework/customizer/search.php:597 framework/customizer/search.php:610
+msgid "Only provide comma separated numbers. Do not add decimal points, dashes, spaces and currency signs."
+msgstr "Indica solamente números separados por comas. No añadas decimales, guiones, espacios y símbolos de divisa."
+
+#: framework/customizer/search.php:554
+#: template-parts/search-fields/min-max-price.php:22
+#: template-parts/search-fields/min-max-price.php:49
+msgid "Max Price"
+msgstr "Precio máx."
+
+#: framework/customizer/search.php:558
+msgid "Label for Max Price Field"
+msgstr "Etiqueta para campo de precio máx.\b"
+
+#: framework/customizer/search.php:570
+msgid "Maximum Prices List"
+msgstr "Lista de precios máximos"
+
+#: framework/customizer/search.php:582
+msgid "Status That Represents Rent"
+msgstr "Estado que representa alquiler"
+
+#: framework/customizer/search.php:583
+msgid "Visitor expects smaller values for rent prices. So provide the list of minimum and maximum rent prices below. The rent prices will be displayed based on rent status selected here."
+msgstr "Los visitantes esperan valores bajos para los precios de alquiler. Así pues, indica a continuación la lista de precios de alquiler máximos y mínimos. Los precios de alquiler se mostrarán según el estado de alquiler seleccionado aquí."
+
+#: framework/customizer/search.php:596
+msgid "Minimum Prices List for Rent Only."
+msgstr "Solo lista de precios de alquiler mínimos\b."
+
+#: framework/customizer/search.php:609
+msgid "Maximum Prices List for Rent Only."
+msgstr "Solo lista de precios de alquiler máximos\b."
+
+#: framework/customizer/search.php:621
+msgid "Search Form Areas"
+msgstr "Buscar áreas de formulario\b"
+
+#: framework/customizer/search.php:628
+#: template-parts/search-fields/min-max-area.php:13
+msgid "Min Area"
+msgstr "Área mín."
+
+#: framework/customizer/search.php:632
+msgid "Label for Min Area Field"
+msgstr "Etiqueta para campo de área mín.\b"
+
+#: framework/customizer/search.php:644
+msgid "Placeholder Text for Min Area"
+msgstr "Texto de marcador para área mín.\b"
+
+#: framework/customizer/search.php:652
+#: template-parts/search-fields/min-max-area.php:27
+msgid "Max Area"
+msgstr "Área máx."
+
+#: framework/customizer/search.php:656
+msgid "Label for Max Area Field"
+msgstr "Etiqueta para campo de área máx.\b"
+
+#: framework/customizer/search.php:668
+msgid "Placeholder Text for Max Area"
+msgstr "Texto de marcador para área máx.\b"
+
+#: framework/customizer/search.php:676
+msgid "sq ft"
+msgstr "sq ft"
+
+#: framework/customizer/search.php:680
+msgid "Area Measurement Unit for Min and Max Area fields."
+msgstr "Unidad de medida de área para campos de área máx. y mín."
+
+#: framework/customizer/search.php:681
+msgid "Example: sq ft"
+msgstr "Ejemplo: sq ft"
+
+#: framework/customizer/styles.php:35
+msgid "Disable Responsive Styles"
+msgstr "Desactivar estilos receptivos"
+
+#: framework/customizer/styles.php:36
+msgid "Note: It is not recommended to disable responsive styles."
+msgstr "Nota: no se recomienda desactivar los estilos receptivos."
+
+#: framework/customizer/styles.php:51
+msgid "Quick CSS"
+msgstr "Tutor rápido CSS"
+
+#: framework/customizer/styles.php:52
+msgid "Enter small CSS changes here. If you need to change major portions of the theme then use child-custom.css file in child theme."
+msgstr "Introduce aquí los cambios de CSS pequeños. Si necesitas cambiar fragmentos más grandes del tema usa el archivo child-custom.css en el tema hijo."
+
+#: framework/customizer/styles.php:63
+msgid "Slider"
+msgstr "Slider"
+
+#: framework/customizer/styles.php:77
+msgid "Slide Title Color"
+msgstr "Color de título de diapositiva\b"
+
+#: framework/customizer/styles.php:93
+msgid "Slide Title Hover Color"
+msgstr "Color al situarse encima del título de diapositiva"
+
+#: framework/customizer/styles.php:109
+msgid "Slide Description Text Color"
+msgstr "Color de texto de descripción de diapositiva"
+
+#: framework/customizer/styles.php:125
+msgid "Slide Price Color"
+msgstr "Color de precio de diapositiva"
+
+#: framework/customizer/styles.php:141
+msgid "Slide Know More Button Text Color"
+msgstr "Color de texto de botón Más información de diapositiva "
+
+#: framework/customizer/styles.php:157
+msgid "Slide Know More Button Background Color"
+msgstr "Color de fondo de botón Más información de diapositiva"
+
+#: framework/customizer/styles.php:174
+msgid "Slide Know More Button Hover Background Color"
+msgstr "Color de fondo al situarse encima de botón Más información de diapositiva "
+
+#: framework/customizer/styles.php:186
+msgid "Property Item"
+msgstr "Artículo de la propiedad"
+
+#: framework/customizer/styles.php:200
+msgid "Property Item Background Color"
+msgstr "Color de fondo de artículo de la propiedad\b"
+
+#: framework/customizer/styles.php:216
+msgid "Property Item Border Color"
+msgstr "Color de borde de artículo de la propiedad"
+
+#: framework/customizer/styles.php:232
+msgid "Property Title Color"
+msgstr "Color de título de la propiedad"
+
+#: framework/customizer/styles.php:248
+msgid "Property Title Hover Color"
+msgstr "Color al situarse encima del título de la propiedad"
+
+#: framework/customizer/styles.php:264
+msgid "Property Price Text Color"
+msgstr "Color de texto de precio de la propiedad"
+
+#: framework/customizer/styles.php:280
+msgid "Property Price Background Color"
+msgstr "Color de fondo de precio de la propiedad"
+
+#: framework/customizer/styles.php:296
+msgid "Property Status Text Color"
+msgstr "Color de texto de estado de la propiedad\b"
+
+#: framework/customizer/styles.php:312
+msgid "Property Status Background Color"
+msgstr "Color de fondo de estado de la propiedad"
+
+#: framework/customizer/styles.php:328
+msgid "Property Description Text Color"
+msgstr "Color de texto de descripción de la propiedad"
+
+#: framework/customizer/styles.php:344
+msgid "More Details Text Color"
+msgstr "Color de texto de Más detalles"
+
+#: framework/customizer/styles.php:360
+msgid "More Details Text Hover Color"
+msgstr "Color al situarse encima del texto de Más detalles"
+
+#: framework/customizer/styles.php:376
+msgid "Property Meta Text Color"
+msgstr "Color de texto de meta propiedad\b"
+
+#: framework/customizer/styles.php:392
+msgid "Property Meta Background Color"
+msgstr "Color de fondo de meta propiedad"
+
+#: framework/customizer/styles.php:404
+msgid "Buttons"
+msgstr "Botones"
+
+#: framework/customizer/styles.php:418
+msgid "Button Text Color"
+msgstr "Color de texto del botón"
+
+#: framework/customizer/styles.php:434
+msgid "Button Background Color"
+msgstr "Color de fondo del botón\b"
+
+#: framework/customizer/styles.php:450
+msgid "Button Hover Text Color"
+msgstr "Color de texto al situarse encima del botón"
+
+#: framework/customizer/styles.php:466
+msgid "Button Hover Background Color"
+msgstr "Color de fondo al situarse encima del botón"
+
+#: framework/customizer/styles.php:494
+msgid "Scroll to Top Button Background Color"
+msgstr "Color de fondo de botón Ir arriba\b"
+
+#: framework/customizer/styles.php:510
+msgid "Scroll to Top Button Background Hover Color"
+msgstr "Color de fondo al situarse encima del botón Ir arriba"
+
+#: framework/customizer/styles.php:526
+msgid "Scroll to Top Button Icon Color"
+msgstr "Color del icono del botón Ir arriba"
+
+#: framework/customizer/url-slugs.php:14
+msgid "URL Slugs"
+msgstr "Slugs de URL"
+
+#: framework/customizer/url-slugs.php:27
+msgid "Important Note for URL Slugs"
+msgstr "Nota importante sobre los slugs de URL"
+
+#: framework/customizer/url-slugs.php:28
+msgid "Make sure to re-save permalinks settings after every change in URL slugs to avoid 404 errors. You can do this from Settings > Permalinks"
+msgstr "Asegúrate de volver a guardar los ajustes de enlaces permanentes después de cada cambio de slugs de URL para evitar errores 404. Puedes hacer esto desde Ajustes > Enlaces permanentes"
+
+#: framework/customizer/url-slugs.php:42
+#: framework/include/property-post-type.php:33
+msgid "property"
+msgstr "propiedad"
+
+#: framework/customizer/url-slugs.php:46
+msgid "Property Slug"
+msgstr "Slug de la propiedad"
+
+#: framework/customizer/url-slugs.php:57
+#: framework/include/agent-post-type.php:34
+msgid "agent"
+msgstr "agente"
+
+#: framework/customizer/url-slugs.php:61
+msgid "Agent Slug"
+msgstr "Slug del agente"
+
+#: framework/customizer/url-slugs.php:72
+#: framework/include/property-post-type.php:152
+msgid "property-city"
+msgstr "ciudad-propiedad"
+
+#: framework/customizer/url-slugs.php:76
+msgid "Property City Slug"
+msgstr "Slug de ciudad de la propiedad"
+
+#: framework/customizer/url-slugs.php:87
+#: framework/include/property-post-type.php:183
+msgid "property-status"
+msgstr "estado-propiedad"
+
+#: framework/customizer/url-slugs.php:91
+msgid "Property Status Slug"
+msgstr "Slug de estado de la propiedad"
+
+#: framework/customizer/url-slugs.php:102
+#: framework/include/property-post-type.php:122
+msgid "property-type"
+msgstr "tipo-propiedad"
+
+#: framework/customizer/url-slugs.php:106
+msgid "Property Type Slug"
+msgstr "Slug de tipo de propiedad"
+
+#: framework/customizer/url-slugs.php:117
+#: framework/include/property-post-type.php:91
+msgid "property-feature"
+msgstr "prestación-propiedad"
+
+#: framework/customizer/url-slugs.php:121
+msgid "Property Feature Slug"
+msgstr "Slug de prestación de la propiedad"
+
+#: framework/functions/basic.php:364
+#: framework/meta-box/config-meta-boxes.php:482 template-edit-profile.php:128
+msgid "Mobile Number"
+msgstr "Número de móvil"
+
+#: framework/functions/basic.php:365
+#: framework/meta-box/config-meta-boxes.php:488 template-edit-profile.php:133
+msgid "Office Number"
+msgstr "Número de la oficina"
+
+#: framework/functions/breadcrumbs.php:23
+msgid "Home"
+msgstr "Inicio"
+
+#: framework/functions/contact-form-handlers.php:38
+#: framework/functions/contact-form-handlers.php:193
+#: framework/functions/currency-switcher.php:90
+msgid "Unverified Nonce!"
+msgstr "¡Número usado una vez no verificado!"
+
+#: framework/functions/contact-form-handlers.php:62
+#: framework/functions/contact-form-handlers.php:216
+msgid "The reCAPTCHA is not correct. Please try again."
+msgstr "El reCAPTCHA no es correcto. Inténtalo de nuevo."
+
+#: framework/functions/contact-form-handlers.php:76
+#: framework/functions/contact-form-handlers.php:229
+msgid "Target Email address is not properly configured!"
+msgstr "¡La dirección de correo electrónico del destinatario no está configurada correctamente\b!"
+
+#: framework/functions/contact-form-handlers.php:92
+#: framework/functions/contact-form-handlers.php:258
+msgid "Provided Email address is invalid!"
+msgstr "¡La dirección de correo electrónico proporcionada no es válida!"
+
+#: framework/functions/contact-form-handlers.php:100
+#: framework/functions/contact-form-handlers.php:267
+msgid "New message sent by"
+msgstr "Mensaje nuevo enviado por"
+
+#: framework/functions/contact-form-handlers.php:100
+msgid "using contact form at"
+msgstr "usando un formulario de contacto de"
+
+#: framework/functions/contact-form-handlers.php:105
+#: framework/functions/contact-form-handlers.php:273
+msgid "You have received a message from: "
+msgstr "Has recibido un mensaje de: "
+
+#: framework/functions/contact-form-handlers.php:107
+msgid "Phone Number : "
+msgstr "Número de teléfono:"
+
+#: framework/functions/contact-form-handlers.php:109
+#: framework/functions/contact-form-handlers.php:280
+msgid "Their additional message is as follows."
+msgstr "Su mensaje adicional es el siguiente."
+
+#: framework/functions/contact-form-handlers.php:111
+#: framework/functions/contact-form-handlers.php:282
+msgid "You can contact "
+msgstr "Puedes ponerte en contacto"
+
+#: framework/functions/contact-form-handlers.php:111
+#: framework/functions/contact-form-handlers.php:282
+msgid " via email, "
+msgstr " por correo electrónico, "
+
+#: framework/functions/contact-form-handlers.php:151
+#: framework/functions/contact-form-handlers.php:313
+msgid "Message Sent Successfully!"
+msgstr "¡Mensaje enviado correctamente!"
+
+#: framework/functions/contact-form-handlers.php:156
+#: framework/functions/contact-form-handlers.php:318
+msgid "Server Error: WordPress mail function failed!"
+msgstr "Error de servidor: ¡error en la función de correo de WordPress!"
+
+#: framework/functions/contact-form-handlers.php:164
+#: framework/functions/contact-form-handlers.php:326
+#: framework/functions/currency-switcher.php:129
+msgid "Invalid Request !"
+msgstr "¡Solicitud no válida!"
+
+#: framework/functions/contact-form-handlers.php:267
+msgid "using agent contact form at"
+msgstr "usando el formulario de contacto del agente de"
+
+#: framework/functions/contact-form-handlers.php:275
+msgid "Property Title : "
+msgstr "Título de la propiedad:"
+
+#: framework/functions/contact-form-handlers.php:278
+msgid "Property URL : "
+msgstr "URL de la propiedad:"
+
+#: framework/functions/contact-form-handlers.php:283
+msgid " or via contact number "
+msgstr "o mediante el número de contacto"
+
+#: framework/functions/currency-switcher.php:115
+msgid "Failed to updated cookie !"
+msgstr "¡Error al actualizar el archivo de cookie\b!"
+
+#: framework/functions/currency-switcher.php:122
+msgid "wp-currencies plugin is missing !"
+msgstr "¡no se encuentra el plugin de divisas de wp\b!"
+
+#: framework/functions/edit-profile-handler.php:145
+msgid "The Email you entered is not valid. Please try again."
+msgstr "El correo electrónico que has introducido no es válido. Inténtalo de nuevo."
+
+#: framework/functions/edit-profile-handler.php:150
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "Este correo electrónico ya lo está usando otro usuario. Prueba con otro diferente."
+
+#: framework/functions/edit-profile-handler.php:238
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr "Las contraseñas no coinciden. Tu contraseña no se ha actualizado\b."
+
+#: framework/functions/edit-profile-handler.php:250
+msgid "Profile information is updated successfully!"
+msgstr "¡La información del perfil se ha actualizado correctamente!"
+
+#: framework/functions/edit-profile-handler.php:257
+#: template-submit-property.php:316
+msgid "Security check failed!"
+msgstr "¡Error de comprobación de seguridad!"
+
+#: framework/functions/favorites.php:19 framework/functions/favorites.php:34
+#: property-details/property-add-to-favorites.php:17
+msgid "Added to Favorites"
+msgstr "Se ha añadido a Favoritos\b"
+
+#: framework/functions/favorites.php:21 framework/functions/favorites.php:36
+msgid "Failed!"
+msgstr "¡Error!"
+
+#: framework/functions/favorites.php:41 framework/functions/favorites.php:146
+msgid "Invalid Parameters!"
+msgstr "¡Parámetros no válidos!"
+
+#: framework/functions/favorites.php:106 framework/functions/favorites.php:127
+msgid "Removed Successfully!"
+msgstr "¡Se ha eliminado correctamente!"
+
+#: framework/functions/favorites.php:113 framework/functions/favorites.php:134
+msgid "Failed to remove!"
+msgstr "¡Error al eliminar!"
+
+#: framework/functions/member.php:85 template-parts/modal-login.php:14
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: framework/functions/member.php:116
+msgid "* Wrong username or password."
+msgstr "* Nombre de usuario o contraseña no válida\b."
+
+#: framework/functions/member.php:122
+msgid "successful. Redirecting..."
+msgstr "correctamente. Redirigiendo..."
+
+#: framework/functions/member.php:161
+msgid "This username already exists."
+msgstr "Este nombre de usuario ya existe."
+
+#: framework/functions/member.php:166
+msgid "This email is already registered."
+msgstr "Este correo electrónico ya está registrado."
+
+#: framework/functions/member.php:182
+msgid "Registration is complete. Check your email for details!"
+msgstr "El registro ha finalizado. Te hemos enviado los detalles a tu correo electrónico. Comprueba tu bandeja de entrada."
+
+#: framework/functions/member.php:210
+msgid "Provide a valid username or email address!"
+msgstr "¡Debes indicar un nombre de usuario o dirección de correo electrónico válida!"
+
+#: framework/functions/member.php:216
+msgid "No user found for given email!"
+msgstr "¡No hay ningún usuario con el correo electrónico que has proporcionado!"
+
+#: framework/functions/member.php:222
+msgid "No user found for given username!"
+msgstr "¡No se ha encontrado ningún usuario con ese nombre de usuario!"
+
+#: framework/functions/member.php:225
+msgid "Invalid username or email!"
+msgstr "¡Nombre de usuario o correo electrónico incorrecto!"
+
+#: framework/functions/member.php:253
+#, php-format
+msgid "Your New Password For %s"
+msgstr "Tu contraseña nueva de %s"
+
+#: framework/functions/member.php:254
+#, php-format
+msgid "Your new password is: %s"
+msgstr "Tu contraseña nueva es: %s"
+
+#: framework/functions/member.php:266
+msgid "Check your email for new password"
+msgstr "Te hemos enviado la contraseña nueva a tu correo electrónico. Comprueba tu bandeja de entrada"
+
+#: framework/functions/member.php:268
+msgid "Failed to send you new password email!"
+msgstr "¡Error al enviar correo electrónico con contraseña nueva!"
+
+#: framework/functions/member.php:272
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr "¡Lo sentimos! ¡Se ha producido un error al restablecer tu contraseña\b!"
+
+#: framework/functions/member.php:318
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "Se ha registrado un usuario nuevo en tu sitio %s:"
+
+#: framework/functions/member.php:319
+#, php-format
+msgid "Username: %s"
+msgstr "Nombre de usuario: %s"
+
+#: framework/functions/member.php:320
+#, php-format
+msgid "Email: %s"
+msgstr "Correo electrónico: %s"
+
+#: framework/functions/member.php:322
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Registro de usuario nuevo\b"
+
+#: framework/functions/member.php:327 framework/functions/member.php:333
+#, php-format
+msgid "Welcome to %s"
+msgstr "Bienvenido a %s"
+
+#: framework/functions/member.php:328
+#, php-format
+msgid "Your username is: %s"
+msgstr "Tu nombre de usuario es: %s"
+
+#: framework/functions/member.php:329
+#, php-format
+msgid "You can login using following password: %s"
+msgstr "Puedes iniciar sesión con la siguiente contraseña: %s"
+
+#: framework/functions/member.php:330
+msgid "It is highly recommended to change your password after login."
+msgstr "Te recomendamos que cambies la contraseña después de iniciar sesión."
+
+#: framework/functions/member.php:331
+msgid "For more details visit:"
+msgstr "Si deseas más información, visita:"
+
+#: framework/functions/pagination.php:40 framework/functions/pagination.php:92
+#: framework/functions/pagination.php:149
+msgid "First"
+msgstr "Primero"
+
+#: framework/functions/pagination.php:41 framework/functions/pagination.php:96
+#: framework/functions/pagination.php:150
+msgid "Previous"
+msgstr "Anterior"
+
+#: framework/functions/pagination.php:49
+#: framework/functions/pagination.php:111
+#: framework/functions/pagination.php:158
+msgid "Next"
+msgstr "Siguiente"
+
+#: framework/functions/pagination.php:50
+#: framework/functions/pagination.php:115
+#: framework/functions/pagination.php:159
+msgid "Last"
+msgstr "Último"
+
+#: framework/functions/price.php:18
+msgid "$"
+msgstr "$"
+
+#: framework/functions/property-submit-handler.php:154
+#, php-format
+msgid "A new property is submitted by %s at %s"
+msgstr "%s ha enviado una propiedad nueva a %s"
+
+#: framework/functions/property-submit-handler.php:163
+msgid "You can preview it here : "
+msgstr "Aquí tienes una vista previa:"
+
+#: framework/functions/property-submit-handler.php:172
+#, php-format
+msgid "Message to the Reviewer : %s"
+msgstr "Mensaje al revisor: %s"
+
+#: framework/functions/property-submit-handler.php:177
+#, php-format
+msgid "You can contact the submitter \"%s\" via email %s"
+msgstr "Puedes ponerte en contacto con el remitente \"%s\" por correo electrónico %s"
+
+#: framework/functions/real-estate-search.php:776
+msgid "Main Location"
+msgstr "Ubicación principal"
+
+#: framework/functions/real-estate-search.php:777
+msgid "Child Location"
+msgstr "Ubicación secundaria"
+
+#: framework/functions/real-estate-search.php:778
+msgid "Grand Child Location"
+msgstr "Segunda ubicación secundaria"
+
+#: framework/functions/real-estate-search.php:779
+msgid "Great Grand Child Location"
+msgstr "Tercera ubicación secundaria"
+
+#: framework/functions/real-estate.php:77
+#: framework/functions/real-estate.php:78
+msgid "Property Payments"
+msgstr "Pagos de la propiedad"
+
+#: framework/functions/real-estate.php:97
+#: framework/include/property-post-type.php:440
+msgid "Transaction ID"
+msgstr "ID de transacción"
+
+#: framework/functions/real-estate.php:98
+#: framework/include/property-post-type.php:444
+msgid "Payment Date"
+msgstr "Fecha de pago"
+
+#: framework/functions/real-estate.php:99
+#: framework/include/property-post-type.php:448 template-edit-profile.php:89
+msgid "First Name"
+msgstr "Nombre"
+
+#: framework/functions/real-estate.php:100
+#: framework/include/property-post-type.php:452 template-edit-profile.php:94
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: framework/functions/real-estate.php:101
+#: framework/include/property-post-type.php:456
+msgid "Payer Email"
+msgstr "Correo electrónico del pagador"
+
+#: framework/functions/real-estate.php:102
+#: framework/include/property-post-type.php:460
+msgid "Payment Status"
+msgstr "Estado del pago"
+
+#: framework/functions/real-estate.php:103
+msgid "Amount"
+msgstr "Importe"
+
+#: framework/functions/real-estate.php:104
+msgid "Currency"
+msgstr "Divisa"
+
+#: framework/functions/real-estate.php:107
+msgid "Action"
+msgstr "Acción"
+
+#: framework/functions/real-estate.php:134
+#: framework/include/property-post-type.php:426
+msgid "Not Available"
+msgstr "No disponible"
+
+#: framework/functions/real-estate.php:157
+#: framework/include/property-post-type.php:11
+msgid "Edit Property"
+msgstr "Editar propiedad"
+
+#: framework/functions/real-estate.php:186
+msgid "No Completed Payment Found!"
+msgstr "¡No se ha encontrado ningún pago completado!"
+
+#: framework/functions/theme-comment.php:17
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: framework/functions/theme-comment.php:17
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: framework/functions/theme-comment.php:36
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: framework/functions/theme-comment.php:40
+msgid "on"
+msgstr "en"
+
+#: framework/functions/theme-comment.php:43
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: framework/functions/theme-comment.php:46
+msgid "said"
+msgstr "dijo"
+
+#: framework/include/additional-details-metabox.php:101
+#: template-parts/submit-fields/additional-details.php:28
+msgid "Value"
+msgstr "Valor"
+
+#: framework/include/agent-post-type.php:8
+msgid "Agents"
+msgstr "Agentes"
+
+#: framework/include/agent-post-type.php:10
+#: framework/include/partners-post-type.php:11
+#: framework/include/property-post-type.php:9
+#: framework/include/slide-post-type.php:9
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: framework/include/agent-post-type.php:11
+msgid "Add New Agent"
+msgstr "Añadir agente nuevo"
+
+#: framework/include/agent-post-type.php:12
+msgid "Edit Agent"
+msgstr "Editar agente"
+
+#: framework/include/agent-post-type.php:13
+msgid "New Agent"
+msgstr "Agente nuevo"
+
+#: framework/include/agent-post-type.php:14
+msgid "View Agent"
+msgstr "Ver agente"
+
+#: framework/include/agent-post-type.php:15
+msgid "Search Agent"
+msgstr "Buscar agente"
+
+#: framework/include/agent-post-type.php:16
+msgid "No Agent found"
+msgstr "No se ha encontrado ningún agente"
+
+#: framework/include/agent-post-type.php:17
+msgid "No Agent found in Trash"
+msgstr "No se ha encontrado ningún agente en la Papelera"
+
+#: framework/include/partners-post-type.php:10
+#: framework/include/partners-post-type.php:48
+msgid "Partner"
+msgstr "Socio"
+
+#: framework/include/partners-post-type.php:12
+msgid "Add New Partner"
+msgstr "Añadir socio nuevo"
+
+#: framework/include/partners-post-type.php:13
+msgid "Edit Partner"
+msgstr "Editar socio"
+
+#: framework/include/partners-post-type.php:14
+msgid "New Partner"
+msgstr "Socio nuevo"
+
+#: framework/include/partners-post-type.php:15
+msgid "View Partner"
+msgstr "Ver socio"
+
+#: framework/include/partners-post-type.php:16
+msgid "Search Partner"
+msgstr "Buscar socio"
+
+#: framework/include/partners-post-type.php:17
+msgid "No Partner found"
+msgstr "No se ha encontrado ningún socio"
+
+#: framework/include/partners-post-type.php:18
+msgid "No Partner found in Trash"
+msgstr "No se ha encontrado ningún socio en la Papelera"
+
+#: framework/include/partners-post-type.php:34
+msgid "partners"
+msgstr "socios"
+
+#: framework/include/partners-post-type.php:49
+msgid "Logo"
+msgstr "Logotipo"
+
+#: framework/include/partners-post-type.php:50
+#: framework/include/property-post-type.php:291
+msgid "Publish Time"
+msgstr "Hora de publicación"
+
+#: framework/include/partners-post-type.php:67
+msgid "No logo provided"
+msgstr "No se ha proporcionado ningún logotipo"
+
+#: framework/include/property-post-type.php:7
+#: framework/include/shortcodes/vc-map.php:43
+msgid "Properties"
+msgstr "Propiedades"
+
+#: framework/include/property-post-type.php:8
+#: framework/meta-box/config-meta-boxes.php:64
+msgid "Property"
+msgstr "Propiedad"
+
+#: framework/include/property-post-type.php:10
+msgid "Add New Property"
+msgstr "Añadir propiedad nueva"
+
+#: framework/include/property-post-type.php:12
+msgid "New Property"
+msgstr "Propiedad nueva"
+
+#: framework/include/property-post-type.php:13
+msgid "View Property"
+msgstr "Ver propiedad"
+
+#: framework/include/property-post-type.php:14
+msgid "Search Property"
+msgstr "Buscar propiedad"
+
+#: framework/include/property-post-type.php:15
+msgid "No Property found"
+msgstr "No se ha encontrado ninguna propiedad"
+
+#: framework/include/property-post-type.php:16
+msgid "No Property found in Trash"
+msgstr "No se ha encontrado ninguna propiedad en la papelera"
+
+#: framework/include/property-post-type.php:68
+msgid "Search Property Features"
+msgstr "Buscar prestaciones de la propiedad"
+
+#: framework/include/property-post-type.php:69
+msgid "Popular Property Features"
+msgstr "Prestaciones de propiedad populares"
+
+#: framework/include/property-post-type.php:70
+msgid "All Property Features"
+msgstr "Todas las prestaciones de la propiedad"
+
+#: framework/include/property-post-type.php:71
+msgid "Parent Property Feature"
+msgstr "Prestación de la propiedad principal"
+
+#: framework/include/property-post-type.php:72
+msgid "Parent Property Feature:"
+msgstr "Prestación de la propiedad principal:"
+
+#: framework/include/property-post-type.php:73
+msgid "Edit Property Feature"
+msgstr "Editar prestación de la propiedad"
+
+#: framework/include/property-post-type.php:74
+msgid "Update Property Feature"
+msgstr "Actualizar prestación de la propiedad"
+
+#: framework/include/property-post-type.php:75
+msgid "Add New Property Feature"
+msgstr "Añadir prestación de la propiedad nueva"
+
+#: framework/include/property-post-type.php:76
+msgid "New Property Feature Name"
+msgstr "Añadir nombre de la prestación de la propiedad nueva"
+
+#: framework/include/property-post-type.php:77
+msgid "Separate Property Features with commas"
+msgstr "Separa las prestaciones de la propiedad con comas"
+
+#: framework/include/property-post-type.php:78
+msgid "Add or remove Property Features"
+msgstr "Añadir o eliminar prestaciones de la propiedad"
+
+#: framework/include/property-post-type.php:79
+msgid "Choose from the most used Property Features"
+msgstr "Selecciona entre las prestaciones de propiedad más utilizadas"
+
+#: framework/include/property-post-type.php:99
+msgid "Search Property Types"
+msgstr "Buscar tipos de propiedad"
+
+#: framework/include/property-post-type.php:100
+msgid "Popular Property Types"
+msgstr "Tipos de propiedad populares"
+
+#: framework/include/property-post-type.php:101
+msgid "All Property Types"
+msgstr "Todos los tipos de propiedad"
+
+#: framework/include/property-post-type.php:102
+msgid "Parent Property Type"
+msgstr "Tipo de propiedad principal"
+
+#: framework/include/property-post-type.php:103
+msgid "Parent Property Type:"
+msgstr "Tipo de propiedad principal:"
+
+#: framework/include/property-post-type.php:104
+msgid "Edit Property Type"
+msgstr "Editar tipo de propiedad"
+
+#: framework/include/property-post-type.php:105
+msgid "Update Property Type"
+msgstr "Actualizar tipo de propiedad"
+
+#: framework/include/property-post-type.php:106
+msgid "Add New Property Type"
+msgstr "Añadir tipo de propiedad nuevo"
+
+#: framework/include/property-post-type.php:107
+msgid "New Property Type Name"
+msgstr "Añadir nombre de tipo de propiedad nuevo"
+
+#: framework/include/property-post-type.php:108
+msgid "Separate Property Types with commas"
+msgstr "Separa los tipos de propiedad con comas"
+
+#: framework/include/property-post-type.php:109
+msgid "Add or remove Property Types"
+msgstr "Añadir o eliminar tipos de propiedad"
+
+#: framework/include/property-post-type.php:110
+msgid "Choose from the most used Property Types"
+msgstr "Selecciona entre los tipos de propiedad más utilizados"
+
+#: framework/include/property-post-type.php:111
+#: widgets/property-types-widget.php:35
+msgid "Property Types"
+msgstr "Tipos de propiedad"
+
+#: framework/include/property-post-type.php:129
+msgid "Search Property Cities"
+msgstr "Buscar ciudades de propiedad"
+
+#: framework/include/property-post-type.php:130
+msgid "Popular Property Cities"
+msgstr "Ciudades de propiedad populares"
+
+#: framework/include/property-post-type.php:131
+msgid "All Property Cities"
+msgstr "Todas las ciudades de propiedad"
+
+#: framework/include/property-post-type.php:132
+msgid "Parent Property City"
+msgstr "Ciudad de propiedad principal"
+
+#: framework/include/property-post-type.php:133
+msgid "Parent Property City:"
+msgstr "Ciudad de propiedad principal:"
+
+#: framework/include/property-post-type.php:134
+msgid "Edit Property City"
+msgstr "Editar ciudad de propiedad"
+
+#: framework/include/property-post-type.php:135
+msgid "Update Property City"
+msgstr "Actualizar ciudad de propiedad"
+
+#: framework/include/property-post-type.php:136
+msgid "Add New Property City"
+msgstr "Añadir ciudad de propiedad nueva"
+
+#: framework/include/property-post-type.php:137
+msgid "New Property City Name"
+msgstr "Nombre de ciudad de propiedad nueva"
+
+#: framework/include/property-post-type.php:138
+msgid "Separate Property Cities with commas"
+msgstr "Separa las ciudades de propiedad con comas"
+
+#: framework/include/property-post-type.php:139
+msgid "Add or remove Property Cities"
+msgstr "Añadir o eliminar ciudades de propiedad"
+
+#: framework/include/property-post-type.php:140
+msgid "Choose from the most used Property Cities"
+msgstr "Selecciona entre las ciudades de propiedad más usadas"
+
+#: framework/include/property-post-type.php:141
+msgid "Property Cities"
+msgstr "Ciudades de propiedad"
+
+#: framework/include/property-post-type.php:160
+msgid "Search Property Status"
+msgstr "Buscar estado de la propiedad"
+
+#: framework/include/property-post-type.php:161
+msgid "Popular Property Status"
+msgstr "Estados de la propiedad populares"
+
+#: framework/include/property-post-type.php:162
+msgid "All Property Status"
+msgstr "Todos los estados de la propiedad"
+
+#: framework/include/property-post-type.php:163
+msgid "Parent Property Status"
+msgstr "Estado de la propiedad principal"
+
+#: framework/include/property-post-type.php:164
+msgid "Parent Property Status:"
+msgstr "Estado de la propiedad principal:"
+
+#: framework/include/property-post-type.php:165
+msgid "Edit Property Status"
+msgstr "Editar estado de la propiedad"
+
+#: framework/include/property-post-type.php:166
+msgid "Update Property Status"
+msgstr "Actualizar estado de la propiedad"
+
+#: framework/include/property-post-type.php:167
+msgid "Add New Property Status"
+msgstr "Añadir estado de la propiedad nuevo"
+
+#: framework/include/property-post-type.php:168
+msgid "New Property Status Name"
+msgstr "Nombre de estado de la propiedad nuevo"
+
+#: framework/include/property-post-type.php:169
+msgid "Separate Property Status with commas"
+msgstr "Separa los estados de la propiedad con comas"
+
+#: framework/include/property-post-type.php:170
+msgid "Add or remove Property Status"
+msgstr "Añadir o eliminar estado de la propiedad"
+
+#: framework/include/property-post-type.php:171
+msgid "Choose from the most used Property Status"
+msgstr "Selecciona entre los estados de la propiedad más usados"
+
+#: framework/include/property-post-type.php:285
+#: framework/include/slide-post-type.php:46
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: framework/include/property-post-type.php:286
+msgid "City"
+msgstr "Ciudad"
+
+#: framework/include/property-post-type.php:330
+msgid "No Thumbnail"
+msgstr "Sin miniatura"
+
+#: framework/include/property-post-type.php:339
+#: framework/include/property-post-type.php:351
+#: framework/include/property-post-type.php:381
+#: framework/include/property-post-type.php:390
+#: framework/include/property-post-type.php:399
+#: framework/include/slide-post-type.php:73
+msgid "NA"
+msgstr "ND"
+
+#: framework/include/property-post-type.php:363
+msgid "No Address Provided!"
+msgstr "¡No se indicado ninguna dirección!"
+
+#: framework/include/property-post-type.php:418
+msgid "Payment Information"
+msgstr "Información de pago"
+
+#: framework/include/property-post-type.php:464
+msgid "Payment Amount"
+msgstr "Importe del pago"
+
+#: framework/include/property-post-type.php:468
+msgid "Payment Currency"
+msgstr "Divisa de pago"
+
+#: framework/include/shortcodes/elements.php:265
+msgid "Result:"
+msgstr "Resultado:"
+
+#: framework/include/shortcodes/vc-map.php:44
+msgid "List of Properties"
+msgstr "Lista de propiedades"
+
+#: framework/include/shortcodes/vc-map.php:46
+msgid "Theme"
+msgstr "Tema"
+
+#: framework/include/shortcodes/vc-map.php:50
+msgid "Layout"
+msgstr "Diseño"
+
+#: framework/include/shortcodes/vc-map.php:63 template-parts/gallery.php:28
+msgid "All"
+msgstr "Todo"
+
+#: framework/include/shortcodes/vc-map.php:85
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: framework/include/shortcodes/vc-map.php:88
+#: framework/include/slide-post-type.php:48
+msgid "Date"
+msgstr "Fecha"
+
+#: framework/include/shortcodes/vc-map.php:94
+msgid "Order"
+msgstr "Orden"
+
+#: framework/include/shortcodes/vc-map.php:97
+msgid "Descending"
+msgstr "Descendente"
+
+#: framework/include/shortcodes/vc-map.php:98
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: framework/include/shortcodes/vc-map.php:103
+#: framework/meta-box/config-meta-boxes.php:644
+msgid "Locations"
+msgstr "Ubicaciones"
+
+#: framework/include/shortcodes/vc-map.php:110
+#: framework/meta-box/config-meta-boxes.php:652
+msgid "Statuses"
+msgstr "Estados"
+
+#: framework/include/shortcodes/vc-map.php:117
+#: framework/meta-box/config-meta-boxes.php:660
+msgid "Types"
+msgstr "Tipos"
+
+#: framework/include/shortcodes/vc-map.php:124
+msgid "Minimum Bedrooms"
+msgstr "Mínimo de habitaciones"
+
+#: framework/include/shortcodes/vc-map.php:142
+msgid "Maximum Bedrooms"
+msgstr "Máximo de habitaciones"
+
+#: framework/include/shortcodes/vc-map.php:163
+msgid "Minimum Bathrooms"
+msgstr "Mínimo de cuartos de baño"
+
+#: framework/include/shortcodes/vc-map.php:181
+msgid "Maximum Bathrooms"
+msgstr "Máximo de cuartos de baño"
+
+#: framework/include/shortcodes/vc-map.php:202
+#: framework/meta-box/config-meta-boxes.php:692
+msgid "Minimum Price"
+msgstr "Precio mínimo"
+
+#: framework/include/shortcodes/vc-map.php:203
+#: framework/include/shortcodes/vc-map.php:211
+#: framework/include/shortcodes/vc-map.php:219
+#: framework/include/shortcodes/vc-map.php:227
+msgid "Only provide digits"
+msgstr "Indicar dígitos únicamente"
+
+#: framework/include/shortcodes/vc-map.php:210
+#: framework/meta-box/config-meta-boxes.php:700
+msgid "Maximum Price"
+msgstr "Precio máximo"
+
+#: framework/include/shortcodes/vc-map.php:218
+msgid "Minimum Area"
+msgstr "Área mínima"
+
+#: framework/include/shortcodes/vc-map.php:226
+msgid "Maximum Area"
+msgstr "Área máxima"
+
+#: framework/include/shortcodes/vc-map.php:234
+msgid "Display Only Featured Properties"
+msgstr "Mostrar solo propiedades destacadas"
+
+#: framework/include/slide-post-type.php:7
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: framework/include/slide-post-type.php:8
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: framework/include/slide-post-type.php:10
+msgid "Add New Slide"
+msgstr "Añadir diapositiva nueva"
+
+#: framework/include/slide-post-type.php:11
+msgid "Edit Slide"
+msgstr "Editar diapositiva"
+
+#: framework/include/slide-post-type.php:12
+msgid "New Slide"
+msgstr "Diapositiva nueva"
+
+#: framework/include/slide-post-type.php:13
+msgid "View Slide"
+msgstr "Ver diapositiva"
+
+#: framework/include/slide-post-type.php:14
+msgid "Search Slide"
+msgstr "Buscar diapositiva"
+
+#: framework/include/slide-post-type.php:15
+msgid "No Slide found"
+msgstr "No se ha encontrado ninguna diapositiva"
+
+#: framework/include/slide-post-type.php:16
+msgid "No Slide found in Trash"
+msgstr "No se ha encontrado ninguna diapositiva en la Papelera"
+
+#: framework/include/slide-post-type.php:45
+msgid "Slide Title"
+msgstr "Título de la diapositiva"
+
+#: framework/include/slide-post-type.php:47
+msgid "Slide Sub Text"
+msgstr "Subtexto de la diapositiva"
+
+#: framework/include/slide-post-type.php:65
+msgid "No Slider Image"
+msgstr "Sin imagen en el slider"
+
+#: framework/include/slide-post-type.php:88
+msgid "Slide Information"
+msgstr "Información de la diapositiva"
+
+#: framework/include/slide-post-type.php:105
+msgid "Sub Text"
+msgstr "Subtexto"
+
+#: framework/include/slide-post-type.php:109
+msgid "This text will appear below Title on slide."
+msgstr "Este texto aparecerá debajo del título en el diapositiva."
+
+#: framework/include/slide-post-type.php:114
+msgid "Target URL"
+msgstr "URL de destino"
+
+#: framework/include/slide-post-type.php:118
+msgid "This URL will be applied on Slide Image."
+msgstr "Este URL se aplicará a la imagen de la diapositiva."
+
+#: framework/meta-box/config-meta-boxes.php:16
+#: framework/meta-box/config-meta-boxes.php:22
+msgid "Video Embed Code"
+msgstr "Código embebido de vídeo"
+
+#: framework/meta-box/config-meta-boxes.php:23
+msgid "If you are not using self hosted videos then please provide the video embed code and remove the width and height attributes."
+msgstr "Si no estás usando vídeos con alojamiento propio, indica el código embebido de vídeo y elimina los atributos de ancho y altura."
+
+#: framework/meta-box/config-meta-boxes.php:36
+#: framework/meta-box/config-meta-boxes.php:72
+msgid "Gallery Images"
+msgstr "Imágenes de la galería"
+
+#: framework/meta-box/config-meta-boxes.php:42
+msgid "Upload Gallery Images"
+msgstr "Cargar imágenes de la galería"
+
+#: framework/meta-box/config-meta-boxes.php:44
+msgid "Images should have minimum width of 830px and minimum height of 323px, Bigger size images will be cropped automatically."
+msgstr "Las imágenes deben tener un ancho mínimo de 830px y una altura mínima de 323px. Las imágenes de mayor tamaño se recortarán automáticamente."
+
+#: framework/meta-box/config-meta-boxes.php:68
+msgid "Basic Information"
+msgstr "Información básica"
+
+#: framework/meta-box/config-meta-boxes.php:76
+#: property-details/property-floor-plans.php:12
+msgid "Floor Plans"
+msgstr "Planos de la planta"
+
+#: framework/meta-box/config-meta-boxes.php:92
+msgid "Homepage Slider"
+msgstr "Slider de la página de inicio"
+
+#: framework/meta-box/config-meta-boxes.php:96
+msgid "Top Banner"
+msgstr "Banner superior"
+
+#: framework/meta-box/config-meta-boxes.php:106
+msgid "Sale or Rent Price ( Only digits )"
+msgstr "Precio de venta o alquiler (solo dígitos\b)"
+
+#: framework/meta-box/config-meta-boxes.php:107
+msgid "Example Value: 435000"
+msgstr "Valor de ejemplo: 435000"
+
+#: framework/meta-box/config-meta-boxes.php:116
+msgid "Example Value: Per Month"
+msgstr "Valor de ejemplo: al mes"
+
+#: framework/meta-box/config-meta-boxes.php:124
+msgid "Area Size ( Only digits )"
+msgstr "Tamaño de área (solo dígitos)"
+
+#: framework/meta-box/config-meta-boxes.php:125
+msgid "Example Value: 2500"
+msgstr "Valor de ejemplo: 2500"
+
+#: framework/meta-box/config-meta-boxes.php:133
+#: framework/meta-box/config-meta-boxes.php:274
+msgid "Size Postfix"
+msgstr "Postfijo de tamaño"
+
+#: framework/meta-box/config-meta-boxes.php:134
+msgid "Example Value: Sq Ft"
+msgstr "Valor de ejemplo: Sq Ft"
+
+#: framework/meta-box/config-meta-boxes.php:143
+msgid "Example Value: 4"
+msgstr "Valor de ejemplo: 4"
+
+#: framework/meta-box/config-meta-boxes.php:152
+msgid "Example Value: 2"
+msgstr "Valor de ejemplo: 2"
+
+#: framework/meta-box/config-meta-boxes.php:161
+msgid "Example Value: 1"
+msgstr "Valor de ejemplo: 1"
+
+#: framework/meta-box/config-meta-boxes.php:170
+msgid "It will help you search a property directly."
+msgstr "Te ayudará a buscar directamente una propiedad."
+
+#: framework/meta-box/config-meta-boxes.php:186
+msgid "Do you want to hide Google map on property detail page ?"
+msgstr "¿Quieres ocultar el mapa de Google en la página de detalles de la propiedad?"
+
+#: framework/meta-box/config-meta-boxes.php:196
+msgid "Property Address"
+msgstr "Dirección de la propiedad"
+
+#: framework/meta-box/config-meta-boxes.php:197
+msgid "Leaving it empty will hide the google map on property detail page."
+msgstr "Si se deja vacío, no se mostrará el mapa de google en la página de detalles de la propiedad."
+
+#: framework/meta-box/config-meta-boxes.php:205
+msgid "Property Location at Google Map*"
+msgstr "Ubicación de la propiedad en el mapa de Google*"
+
+#: framework/meta-box/config-meta-boxes.php:206
+msgid "Drag the google map marker to point your property location. You can also use the address field above to search for your property."
+msgstr "Arrastra el marcador del mapa de google para señalar la ubicación de la propiedad. También puedes usar los campos de dirección de la parte superior para buscar tu propiedad."
+
+#: framework/meta-box/config-meta-boxes.php:217
+msgid "Gallery Type You Want to Use"
+msgstr "Tipo de galería que quieres usar"
+
+#: framework/meta-box/config-meta-boxes.php:222
+msgid "Gallery with thumbnails on right"
+msgstr "Galería con miniaturas a la derecha"
+
+#: framework/meta-box/config-meta-boxes.php:223
+msgid "Gallery with thumbnails on bottom"
+msgstr "Galería con miniaturas abajo"
+
+#: framework/meta-box/config-meta-boxes.php:229
+msgid "Property Gallery Images"
+msgstr "Imágenes de la galería de propiedades"
+
+#: framework/meta-box/config-meta-boxes.php:231
+msgid "Images should have minimum size of 770px by 386px for thumbnails on right and 830px by 460px for thumbnails on bottom. Bigger size images will be cropped automatically."
+msgstr "Las imágenes deben tener un tamaño mínimo de 770px por 386px para las miniaturas de la derecha y 830px por 460px para las miniaturas de abajo. Las imágenes de mayor tamaño se recortarán automáticamente."
+
+#: framework/meta-box/config-meta-boxes.php:247
+msgid "Floor Name"
+msgstr "Nombre del piso"
+
+#: framework/meta-box/config-meta-boxes.php:249
+msgid "Example: Ground Floor"
+msgstr "Ejemplo: Planta baja"
+
+#: framework/meta-box/config-meta-boxes.php:253
+msgid "Floor Price ( Only digits )"
+msgstr "Precio del piso (solo dígitos\b)"
+
+#: framework/meta-box/config-meta-boxes.php:255
+msgid "Example: 4000"
+msgstr "Ejemplo: 4000"
+
+#: framework/meta-box/config-meta-boxes.php:262
+msgid "Example: Per Month"
+msgstr "Ejemplo: al mes\b"
+
+#: framework/meta-box/config-meta-boxes.php:267
+msgid "Floor Size ( Only digits )"
+msgstr "Tamaño del piso (solo dígitos\b)"
+
+#: framework/meta-box/config-meta-boxes.php:269
+msgid "Example: 2500"
+msgstr "Ejemplo: 2500"
+
+#: framework/meta-box/config-meta-boxes.php:276
+msgid "Example: Sq Ft"
+msgstr "Ejemplo: Sq Ft"
+
+#: framework/meta-box/config-meta-boxes.php:283
+msgid "Example: 4"
+msgstr "Ejemplo: 4"
+
+#: framework/meta-box/config-meta-boxes.php:290
+msgid "Example: 2"
+msgstr "Ejemplo: 2"
+
+#: framework/meta-box/config-meta-boxes.php:295
+msgid "Description"
+msgstr "Descripción"
+
+#: framework/meta-box/config-meta-boxes.php:300
+msgid "Floor Plan Image"
+msgstr "Imagen del plano del piso"
+
+#: framework/meta-box/config-meta-boxes.php:302
+msgid "The recommended minimum width is 770px and height is flexible."
+msgstr "El ancho mínimo recomendado es de 770px y la altura es flexible."
+
+#: framework/meta-box/config-meta-boxes.php:313
+#: template-parts/submit-fields/video.php:2
+#: template-parts/submit-fields/video.php:9
+msgid "Virtual Tour Video URL"
+msgstr "URL de vídeo de visita virtual"
+
+#: framework/meta-box/config-meta-boxes.php:314
+msgid "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported"
+msgstr "Indica el URL del vídeo de visita virtual. Se aceptan plataformas como YouTube, Vimeo y archivos SWF y MOV"
+
+#: framework/meta-box/config-meta-boxes.php:320
+msgid "Virtual Tour Video Image"
+msgstr "Imagen de vídeo de visita virtual"
+
+#: framework/meta-box/config-meta-boxes.php:322
+msgid "Provide an image that will be displayed as a place holder and when user will click over it the video will be opened in a lightbox. You must provide this image otherwise the video will not be displayed. Image should have minimum width of 818px and minimum height 417px. Bigger size images will be cropped automatically."
+msgstr "Proporciona una imagen que se mostrará como un marcador y se abra el vídeo en un lightbox cuando el usuario haga clic en ella. Debes proporcionar esta imagen, de lo contrario el vídeo no se mostrará. La imagen debe tener un ancho mínimo de 818px y una altura mínima de 417px. Las imágenes de mayor tamaño se recortarán automáticamente."
+
+#: framework/meta-box/config-meta-boxes.php:331
+#: template-parts/submit-fields/agent.php:2
+msgid "What to display in agent information box ?"
+msgstr "¿Qué mostrar en el cuadro de información del agente\b?"
+
+#: framework/meta-box/config-meta-boxes.php:336
+msgid "Author information."
+msgstr "Información del autor."
+
+#: framework/meta-box/config-meta-boxes.php:337
+msgid "Agent Information. ( Select the agent below )"
+msgstr "Información del agente. (selecciona el agente abajo\b)"
+
+#: framework/meta-box/config-meta-boxes.php:338
+msgid "None. ( Hide information box )"
+msgstr "Ninguna. (Ocultar cuadro de información)"
+
+#: framework/meta-box/config-meta-boxes.php:355
+msgid "Do you want to mark this property as featured ?"
+msgstr "¿Quieres marcar esta propiedad como destacada?"
+
+#: framework/meta-box/config-meta-boxes.php:366
+msgid "You can attach PDF files, Map images OR other documents to provide further details related to property."
+msgstr "Puedes adjuntar archivos PDF, imágenes de mapas U otros documentos para proporcionar más detalles relacionados con la propiedad."
+
+#: framework/meta-box/config-meta-boxes.php:373
+msgid "Property Owner Name"
+msgstr "Nombre del propietario de la propiedad"
+
+#: framework/meta-box/config-meta-boxes.php:380
+msgid "Owner Contact"
+msgstr "Contacto del propietario"
+
+#: framework/meta-box/config-meta-boxes.php:388
+msgid "Owner Address"
+msgstr "Dirección del propietario"
+
+#: framework/meta-box/config-meta-boxes.php:395
+msgid "Private Note"
+msgstr "Nota privada"
+
+#: framework/meta-box/config-meta-boxes.php:396
+msgid "In this textarea, You can write your private note about this property. This field will not be displayed anywhere else."
+msgstr "En este área de texto puedes escribir notas privadas sobre esta propiedad. Esta campo no se mostrará en ninguna otra parte."
+
+#: framework/meta-box/config-meta-boxes.php:412
+msgid "Do you want to add this property in Homepage Slider ?"
+msgstr "¿Quieres añadir esta propiedad al slider de la Página de inicio\b?"
+
+#: framework/meta-box/config-meta-boxes.php:413
+msgid "If Yes, Then you need to provide a slider image below."
+msgstr "En caso afirmativo, tienes que proporcionar una imagen de slider abajo."
+
+#: framework/meta-box/config-meta-boxes.php:418
+msgid "Yes "
+msgstr "Sí"
+
+#: framework/meta-box/config-meta-boxes.php:425
+msgid "Slider Image"
+msgstr "Imagen de slider"
+
+#: framework/meta-box/config-meta-boxes.php:427
+msgid "The recommended image size is 2000px by 700px. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all properties that will be added in slider."
+msgstr "El tamaño de imagen recomendado es de 2000px por 700px. Puedes usar una imagen más grande o más pequeña, pero intenta mantener la misma relación altura/ancho y usa imágenes con el mismo tamaño exactamente en todas las propiedades que se mostrarán en el slider."
+
+#: framework/meta-box/config-meta-boxes.php:436
+msgid "Top Banner Image"
+msgstr "Imagen de banner superior"
+
+#: framework/meta-box/config-meta-boxes.php:438
+msgid "Upload the banner image, If you want to change it for this property. Otherwise default banner image uploaded from theme options will be displayed. Image should have minimum width of 2000px and minimum height of 230px."
+msgstr "Carga la imagen del banner si quieres cambiarla en esta propiedad. De lo contrario, se mostrará la imagen del banner cargada por defecto desde las opciones de tema. La imagen debe tener un ancho mínimo de 2000px y una altura mínima de 230px."
+
+#: framework/meta-box/config-meta-boxes.php:452
+msgid "Partner Information"
+msgstr "Información de socio"
+
+#: framework/meta-box/config-meta-boxes.php:458
+msgid "Website URL"
+msgstr "URL del sitio web"
+
+#: framework/meta-box/config-meta-boxes.php:460
+msgid "Provide Website URL"
+msgstr "Indica el URL del sitio web"
+
+#: framework/meta-box/config-meta-boxes.php:470
+msgid "Provide Related Information"
+msgstr "Proporciona información relacionada"
+
+#: framework/meta-box/config-meta-boxes.php:478
+msgid "Provide Agent Email Address. Agent related messages from contact form on property details page, will be sent on this email address."
+msgstr "Indica la dirección de correo electrónico del agente. Los mensajes relacionados con el agente del formulario de contacto en la página de detalles de la propiedad se enviarán a esta dirección de correo electrónico."
+
+#: framework/meta-box/config-meta-boxes.php:484
+msgid "Provide Agent mobile number"
+msgstr "Proporciona el número de móvil del agente"
+
+#: framework/meta-box/config-meta-boxes.php:490
+msgid "Provide Agent office number"
+msgstr "Proporciona el número de oficina del agente"
+
+#: framework/meta-box/config-meta-boxes.php:496
+msgid "Provide Agent fax number"
+msgstr "Proporciona el número de fax del agente"
+
+#: framework/meta-box/config-meta-boxes.php:502
+msgid "Provide Agent Facebook URL"
+msgstr "Proporciona el URL de Facebook del agente\b"
+
+#: framework/meta-box/config-meta-boxes.php:508
+msgid "Provide Agent Twitter URL"
+msgstr "Proporciona el URL de Twitter del agente\b"
+
+#: framework/meta-box/config-meta-boxes.php:514
+msgid "Provide Agent Google Plus URL"
+msgstr "Proporciona el URL de Google Plus del agente\b"
+
+#: framework/meta-box/config-meta-boxes.php:520
+msgid "Provide Agent LinkedIn URL"
+msgstr "Proporciona el URL de LinkedIn del agente\b"
+
+#: framework/meta-box/config-meta-boxes.php:526
+msgid "Provide Agent Instagram URL"
+msgstr "Proporciona el URL de Instagram del agente"
+
+#: framework/meta-box/config-meta-boxes.php:536
+msgid "Top Banner Area Settings"
+msgstr "Ajustes de área de banner superior\b"
+
+#: framework/meta-box/config-meta-boxes.php:544
+msgid "Please provide the Banner Title, Otherwise the Page Title will be displayed in its place."
+msgstr "Proporciona el título del banner. De lo contrario, el título de la página se mostrará en su lugar."
+
+#: framework/meta-box/config-meta-boxes.php:550
+msgid "Please provide the Banner Sub Title."
+msgstr "Proporciona el subtítulo del banner."
+
+#: framework/meta-box/config-meta-boxes.php:556
+msgid "Banner Image"
+msgstr "Imagen del banner"
+
+#: framework/meta-box/config-meta-boxes.php:558
+msgid "Please upload the Banner Image. Otherwise the default banner image from theme options will be displayed."
+msgstr "Carga la imagen del banner. De lo contrario, se mostrará la imagen del banner cargada por defecto desde las opciones de tema."
+
+#: framework/meta-box/config-meta-boxes.php:565
+msgid "If you want to replace banner with revolution slider then provide its alias here."
+msgstr "Si quieres cambiar el banner con un slider giratorio, proporciona su alias aquí\b."
+
+#: framework/meta-box/config-meta-boxes.php:574
+msgid "Page Title"
+msgstr "Título de la página"
+
+#: framework/meta-box/config-meta-boxes.php:580
+msgid "Page Title Display Status"
+msgstr "Estado de visualización del título de la página"
+
+#: framework/meta-box/config-meta-boxes.php:609
+msgid "Properties Filter Settings"
+msgstr "Ajustes del filtro de propiedades"
+
+#: framework/meta-box/config-meta-boxes.php:623
+msgid "Number of Properties Per Page"
+msgstr "Cantidad de propiedades por página"
+
+#: framework/meta-box/config-meta-boxes.php:631
+msgid "Order Properties By"
+msgstr "Ordenar propiedades por"
+
+#: framework/meta-box/config-meta-boxes.php:634
+#: template-parts/sort-controls.php:24
+msgid "Date New to Old"
+msgstr "De menor a mayor antigüedad"
+
+#: framework/meta-box/config-meta-boxes.php:635
+#: template-parts/sort-controls.php:23
+msgid "Date Old to New"
+msgstr "De mayor a menor antigüedad"
+
+#: framework/meta-box/config-meta-boxes.php:636
+#: template-parts/sort-controls.php:21
+msgid "Price Low to High"
+msgstr "De menor a mayor precio"
+
+#: framework/meta-box/config-meta-boxes.php:637
+#: template-parts/sort-controls.php:22
+msgid "Price High to Low"
+msgstr "De mayor a menor precio"
+
+#: framework/meta-box/config-meta-boxes.php:676
+msgid "Minimum Beds"
+msgstr "Habitaciones mínimas"
+
+#: framework/meta-box/config-meta-boxes.php:684
+msgid "Minimum Baths"
+msgstr "Cuartos de baño mínimos"
+
+#: framework/meta-box/inspiry-meta-box.php:21
+msgid "Meta Box plugin has been deactivated!"
+msgstr "¡El plugin de meta box se ha desactivado\b!"
+
+#: framework/meta-box/inspiry-meta-box.php:22
+#: framework/meta-box/inspiry-meta-box.php:37
+#: framework/meta-box/inspiry-meta-box.php:53
+#: framework/meta-box/inspiry-meta-box.php:69
+#: framework/meta-box/inspiry-meta-box.php:85
+msgid "As now its functionality is embedded with in Real Homes theme."
+msgstr "A partir de ahora su funcionalidad está embebida en el tema Real Homes."
+
+#: framework/meta-box/inspiry-meta-box.php:23
+#: framework/meta-box/inspiry-meta-box.php:39
+#: framework/meta-box/inspiry-meta-box.php:55
+#: framework/meta-box/inspiry-meta-box.php:71
+#: framework/meta-box/inspiry-meta-box.php:87
+msgid "So, You should completely remove it from your plugins."
+msgstr "Por lo tanto, debes eliminarlo definitivamente de tus plugins."
+
+#: framework/meta-box/inspiry-meta-box.php:36
+msgid "Meta Box Columns plugin has been deactivated!"
+msgstr "¡El plugin de columnas de meta box se ha desactivado\b!"
+
+#: framework/meta-box/inspiry-meta-box.php:52
+msgid "Meta Box Tabs plugin has been deactivated!"
+msgstr "¡El plugin de pestañas de meta box se ha desactivado\b!"
+
+#: framework/meta-box/inspiry-meta-box.php:68
+msgid "Meta Box Show Hide plugin has been deactivated!"
+msgstr "¡El plugin de mostrar/ocultar de meta box se ha desactivado\b!"
+
+#: framework/meta-box/inspiry-meta-box.php:84
+msgid "Meta Box Group plugin has been deactivated!"
+msgstr "¡El plugin de grupo de meta box se ha desactivado\b!"
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: functions.php:146
+msgid "Default Sidebar"
+msgstr "Barra lateral por defecto"
+
+#: functions.php:148
+msgid "Widget area for default sidebar on news and post pages."
+msgstr "Zona de widget para la barra lateral por defecto en las páginas de noticias o publicaciones."
+
+#: functions.php:157
+msgid "Pages Sidebar"
+msgstr "Barra lateral de páginas"
+
+#: functions.php:159
+msgid "Widget area for default page template sidebar."
+msgstr "Zona de widget para la barra lateral de plantilla de página por defecto."
+
+#: functions.php:168
+msgid "Contact Sidebar"
+msgstr "Barra lateral de contacto"
+
+#: functions.php:170
+msgid "Widget area for contact page sidebar."
+msgstr "Área de widget para barra lateral de página de contacto\b."
+
+#: functions.php:179
+msgid "Property Sidebar"
+msgstr "Barra lateral de propiedades"
+
+#: functions.php:181
+msgid "Widget area for property detail page sidebar."
+msgstr "Área de widget para la barra lateral de la página de detalles de la propiedad."
+
+#: functions.php:190
+msgid "Property Listing Sidebar"
+msgstr "Barra lateral de listas de propiedades"
+
+#: functions.php:192
+msgid "Widget area for property listing template sidebar."
+msgstr "Área de widget para barra lateral de plantilla de listas de propiedades."
+
+#: functions.php:201
+msgid "dsIDX Sidebar"
+msgstr "Barra lateral dsIDX"
+
+#: functions.php:203
+msgid "Widget area for dsIDX related pages."
+msgstr "Área de widget para páginas relacionadas con dsIDX."
+
+#: functions.php:212
+msgid "Footer First Column"
+msgstr "Columna de primer pie de página"
+
+#: functions.php:214
+msgid "Widget area for first column in footer."
+msgstr "Área de widget para primera columna en pie de página\b."
+
+#: functions.php:223
+msgid "Footer Second Column"
+msgstr "Columna de segundo pie de página"
+
+#: functions.php:225
+msgid "Widget area for second column in footer."
+msgstr "Área de widget para segunda columna en pie de página."
+
+#: functions.php:234
+msgid "Footer Third Column"
+msgstr "Columna de tercer pie de página"
+
+#: functions.php:236
+msgid "Widget area for third column in footer."
+msgstr "Área de widget para tercera columna en pie de página"
+
+#: functions.php:245
+msgid "Footer Fourth Column"
+msgstr "Columna de cuarto pie de página"
+
+#: functions.php:247
+msgid "Widget area for fourth column in footer."
+msgstr "Área de widget para cuarta columna en pie de página"
+
+#: functions.php:257
+msgid "Agent Sidebar"
+msgstr "Barra lateral de agente"
+
+#: functions.php:259
+msgid "Sidebar widget area for agent detail page."
+msgstr "Área de widget de barra lateral para página de datos del agente."
+
+#: functions.php:268
+msgid "Home Search Area"
+msgstr "Área de búsqueda de página de inicio"
+
+#: functions.php:270
+msgid "Widget area for only IDX Search Widget. Using this area means you want to display IDX search form instead of default search form."
+msgstr "Zona de widget solo para widget de búsqueda IDX. Si usas esta zona es porque quieres mostrar el formulario de búsqueda IDX en lugar del formulario de búsqueda por defecto."
+
+#: functions.php:279
+msgid "Property Search Sidebar"
+msgstr "Barra lateral de búsqueda de propiedad"
+
+#: functions.php:281
+msgid "Widget area for property search template with sidebar."
+msgstr "Área de widget para plantilla de búsqueda de propiedades con barra lateral."
+
+#: functions.php:293
+#, php-format
+msgid "Additional Sidebar %d"
+msgstr "Barra lateral adicional %d"
+
+#: functions.php:294
+msgid "An extra sidebar to use with Visual Composer if needed."
+msgstr "Una barra lateral extra para usar con Visual Composer, si es necesario\b."
+
+#: functions.php:667 functions.php:695
+msgid "Valid file formats"
+msgstr "Formatos de archivo válidos"
+
+#: functions.php:737
+msgid "Go to..."
+msgstr "Ir a..."
+
+#: header.php:57
+msgid "Email us at"
+msgstr "Escríbenos a"
+
+#: loop.php:9 template-parts/home-news-posts.php:77
+msgid "No Posts Found!"
+msgstr "¡No se ha encontrado ninguna publicación\b!"
+
+#: property-details/property-add-to-favorites.php:31
+msgid "Add to Favorites"
+msgstr "Añadir a favoritos"
+
+#: property-details/property-agent-for-sidebar.php:70
+#: property-details/property-agent-for-sidebar.php:72
+#: property-details/property-agent.php:76
+#: property-details/property-agent.php:78 template-parts/carousel.php:59
+#: template-parts/separate-slider.php:65 template-parts/slider.php:46
+msgid "Know More"
+msgstr "Más información"
+
+#: property-details/property-agent-for-sidebar.php:85
+#: property-details/property-agent-for-sidebar.php:104
+#: property-details/property-agent.php:111 template-contact.php:147
+#: template-parts/agent-contact-form.php:54
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: property-details/property-agent-for-sidebar.php:87
+#: property-details/property-agent.php:95 template-contact.php:120
+#: template-parts/agent-contact-form.php:20
+msgid "Name"
+msgstr "Nombre"
+
+#: property-details/property-agent-for-sidebar.php:87
+#: property-details/property-agent.php:95 template-contact.php:121
+#: template-parts/agent-contact-form.php:20
+msgid "* Please provide your name"
+msgstr "* Por favor, escribe tu nombre"
+
+#: property-details/property-agent-for-sidebar.php:88
+#: property-details/property-agent.php:96 template-contact.php:77
+#: template-contact.php:125 template-edit-profile.php:104
+#: template-login.php:104 template-login.php:107
+#: template-parts/agent-contact-form.php:24 template-parts/modal-login.php:94
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: property-details/property-agent-for-sidebar.php:88
+#: property-details/property-agent.php:96
+#: template-parts/agent-contact-form.php:24
+msgid "* Please provide valid email address"
+msgstr "* Por favor, proporciona una dirección de correo electrónico válida"
+
+#: property-details/property-agent-for-sidebar.php:89
+#: property-details/property-agent.php:97 template-contact.php:62
+#: template-parts/agent-contact-form.php:30
+msgid "Phone"
+msgstr "Teléfono"
+
+#: property-details/property-agent-for-sidebar.php:89
+#: property-details/property-agent.php:97
+#: template-parts/agent-contact-form.php:30
+msgid "* Please provide valid phone number"
+msgstr "* Por favor, proporciona un número de teléfono válido\b"
+
+#: property-details/property-agent-for-sidebar.php:90
+#: property-details/property-agent.php:98 template-contact.php:135
+#: template-parts/agent-contact-form.php:36
+msgid "Message"
+msgstr "Mensaje"
+
+#: property-details/property-agent-for-sidebar.php:90
+#: property-details/property-agent.php:98 template-contact.php:136
+#: template-parts/agent-contact-form.php:36
+msgid "* Please provide your message"
+msgstr "* Por favor, escribe tu mensaje\b"
+
+#: property-details/property-agent.php:93
+msgid "Contact"
+msgstr "Contacto"
+
+#: property-details/property-agent.php:180
+msgid "Submitted by"
+msgstr "Enviado por"
+
+#: property-details/property-children.php:66 template-favorites.php:94
+#: template-parts/property-for-grid.php:21
+#: template-parts/property-for-home.php:32
+#: template-parts/property-for-listing.php:33
+msgid "More Details "
+msgstr "Más detalles"
+
+#: property-details/property-contents.php:55
+msgid "Print"
+msgstr "Imprimir"
+
+#: property-details/property-floor-plans.php:46
+#: property-details/property-metas.php:18
+msgid "Bedroom"
+msgstr "Habitación"
+
+#: property-details/property-floor-plans.php:57
+#: property-details/property-metas.php:27
+msgid "Bathroom"
+msgstr "Cuarto de baño"
+
+#: property-details/property-map.php:100
+msgid "Share this"
+msgstr "Compartir esto"
+
+#: property-details/property-map.php:101
+msgid "Facebook"
+msgstr "Facebook"
+
+#: property-details/property-map.php:102
+msgid "Twitter"
+msgstr "Twitter"
+
+#: property-details/property-map.php:103
+msgid "Google"
+msgstr "Google"
+
+#: property-details/property-metas.php:36
+msgid "Garage"
+msgstr "Garaje"
+
+#: search.php:10
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: single.php:29 template-parts/article-for-listing.php:13
+msgid "Posted on"
+msgstr "Publicado el"
+
+#: single.php:30 template-parts/article-for-listing.php:14
+#: template-parts/home-news-posts.php:67
+msgid "by"
+msgstr "por"
+
+#: single.php:30 template-parts/article-for-listing.php:14
+msgid "in"
+msgstr "en"
+
+#: templates/agents-list.php:105 template-users-listing.php:138
+msgid "More Details"
+msgstr "Más detalles"
+
+#: templates/agents-list.php:171 template-parts/grid-listing-container.php:59
+#: template-parts/listing-container.php:61
+msgid "Sorry No Results Found"
+msgstr "Lo sentimos, no se ha encontrado ningún resultado"
+
+#: template-contact.php:81 template-parts/submit-fields/address-and-map.php:21
+#: template-parts/submit-fields/address-and-map.php:33
+msgid "Address"
+msgstr "Dirección"
+
+#: template-contact.php:126
+msgid "* Please provide a valid email address"
+msgstr "* Por favor, proporciona una dirección de correo electrónico válida"
+
+#: template-edit-profile.php:74
+msgid "Change"
+msgstr "Cambiar"
+
+#: template-edit-profile.php:75
+msgid "Remove"
+msgstr "Eliminar"
+
+#: template-edit-profile.php:78
+msgid "Profile image should have minimum width of 210px and minimum height of 210px."
+msgstr "La imagen del perfil debe tener un ancho mínimo de 210px y una altura máxima de 210px."
+
+#: template-edit-profile.php:79
+msgid "Make sure to save changes after changing the image."
+msgstr "Asegúrate de guardar los cambios después de cambiar la imagen\b."
+
+#: template-edit-profile.php:99
+msgid "Display Name"
+msgstr "Mostrar nombre"
+
+#: template-edit-profile.php:109 template-login.php:48
+#: template-parts/modal-login.php:21
+msgid "Password"
+msgstr "Contraseña"
+
+#: template-edit-profile.php:109
+msgid "Fill it only if you want to change your password"
+msgstr "Rellénalo solo si quieres cambiar tu contraseña"
+
+#: template-edit-profile.php:114
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+#: template-edit-profile.php:123
+msgid "Biographical Information"
+msgstr "Información biográfica\b"
+
+#: template-edit-profile.php:173
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: template-edit-profile.php:187 templates/my-properties.php:176
+#: template-submit-property.php:347
+msgid "Login Required:"
+msgstr "Debes iniciar sesión:"
+
+#: template-edit-profile.php:187
+msgid "Please login to edit your profile information!"
+msgstr "¡Por favor, inicia sesión para editar la información de tu perfil\b!"
+
+#: template-favorites.php:87
+msgid "Remove from favorites"
+msgstr "Eliminar de favoritos"
+
+#: template-favorites.php:110
+msgid "No property found!"
+msgstr "¡No se ha encontrado ninguna propiedad!"
+
+#: template-favorites.php:118
+msgid "You have no property in favorites!"
+msgstr "¡No tienes ninguna propiedad en favoritos\b!"
+
+#: template-login.php:41
+msgid "Already a Member? Log in here."
+msgstr "¿Ya eres miembro? Inicia sesión aquí."
+
+#: template-login.php:44 template-login.php:97 template-login.php:100
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: template-login.php:45 template-login.php:99
+msgid "* Provide username!"
+msgstr "* ¡Debes escribir el nombre de usuario!"
+
+#: template-login.php:49 template-parts/modal-login.php:22
+msgid "* Provide password!"
+msgstr "* ¡Debes escribir la contraseña!"
+
+#: template-login.php:58 template-parts/modal-login.php:36
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+#: template-login.php:69
+msgid "Forgot password!"
+msgstr "¡He olvidado la contraseña!"
+
+#: template-login.php:73 template-parts/modal-login.php:57
+msgid "Username or Email"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: template-login.php:74 template-parts/modal-login.php:58
+msgid "* Provide username or email!"
+msgstr "* ¡Debes escribir tu nombre de usuario o correo electrónico\b!"
+
+#: template-login.php:78 template-parts/modal-login.php:54
+#: template-parts/modal-login.php:62
+msgid "Reset Password"
+msgstr "Restablecer contraseña"
+
+#: template-login.php:93
+msgid "Do not have an account? Register here"
+msgstr "¿No tienes cuenta? Regístrate aquí"
+
+#: template-login.php:106 template-parts/modal-login.php:96
+msgid "* Provide valid email address!"
+msgstr "* ¡Debes proporcionar una dirección de correo electrónico válida!"
+
+#: template-login.php:111 template-parts/modal-login.php:84
+#: template-parts/modal-login.php:100
+msgid "Register"
+msgstr "Registrarse"
+
+#: template-login.php:135
+msgid "You are already logged in!"
+msgstr "¡Ya has iniciado sesión!"
+
+#: templates/my-properties.php:19 templates/my-properties.php:21
+#: templates/my-properties.php:23 template-submit-property.php:322
+#: template-submit-property.php:326
+msgid "Success:"
+msgstr "Completado:"
+
+#: templates/my-properties.php:19
+msgid "Property removed."
+msgstr "Propiedad eliminada."
+
+#: templates/my-properties.php:21
+msgid "Property Submitted."
+msgstr "Propiedad enviada."
+
+#: templates/my-properties.php:23
+msgid "Property Updated."
+msgstr "Propiedad actualizada."
+
+#: templates/my-properties.php:88
+msgid "Posted on :"
+msgstr "Publicado el:"
+
+#: templates/my-properties.php:129
+msgid "Payment Completed"
+msgstr "Pago completado"
+
+#: templates/my-properties.php:170
+msgid "Note:"
+msgstr "Nota:"
+
+#: templates/my-properties.php:176
+msgid "Please, Login to view your properties!"
+msgstr "¡Debes iniciar sesión para ver tus propiedades!"
+
+#: template-parts/agent-contact-form.php:15
+msgid "Send a Message"
+msgstr "Enviar un mensaje"
+
+#: template-parts/article-for-listing.php:19
+msgid "Read more"
+msgstr "Seguir leyendo"
+
+#: template-parts/common-taxonomy.php:66
+msgid "No Results Found"
+msgstr "No se ha encontrado ningún resultado"
+
+#: template-parts/gallery.php:34
+#, php-format
+msgid "View all Properties having %s status"
+msgstr "Ver todas las propiedades que tengan el estado %s"
+
+#: template-parts/gallery.php:88
+#, php-format
+msgid "View all posts by %s"
+msgstr "Ver todas la publicaciones de %s"
+
+#: template-parts/home-news-posts.php:66
+msgid "On"
+msgstr "En"
+
+#: template-parts/home-news-posts.php:70
+msgid "Read More "
+msgstr "Seguir leyendo"
+
+#: template-parts/modal-login.php:6
+msgid "You need to log in to use member only features."
+msgstr "Debes iniciar sesión para usar las funciones exclusivas para miembros\b."
+
+#: template-parts/modal-login.php:17 template-parts/modal-login.php:88
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+#: template-parts/modal-login.php:18 template-parts/modal-login.php:90
+msgid "* Provide user name!"
+msgstr "* ¡Debes escribir el nombre de usuario\b!"
+
+#: template-parts/modal-login.php:45 template-parts/modal-login.php:74
+msgid "Register Here"
+msgstr "Regístrate aquí\b"
+
+#: template-parts/modal-login.php:48 template-parts/modal-login.php:123
+msgid "Forgot Password"
+msgstr "He olvidado la contraseña"
+
+#: template-parts/modal-login.php:71 template-parts/modal-login.php:121
+msgid "Login Here"
+msgstr "Inicia sesión aquí"
+
+#: template-parts/property-edit.php:232
+msgid "Requested property does not belong to logged in user !"
+msgstr "¡La propiedad solicitada no pertenece al usuario conectado\b!"
+
+#: template-parts/property-edit.php:238
+msgid "Requested post is not a valid property post !"
+msgstr "¡La publicación solicitada no es una publicación de propiedad válida!"
+
+#: template-parts/search-fields/min-max-area.php:20
+#: template-parts/search-fields/min-max-area.php:34
+msgid "Only provide digits!"
+msgstr "¡Debes proporcionar dígitos únicamente\b!"
+
+#: template-parts/search-form-over-image.php:205
+msgid "Advanced Search"
+msgstr "Búsqueda avanzada"
+
+#: template-parts/sidebar-search-results.php:37 template-search.php:65
+#, php-format
+msgid "<strong>%s</strong> Result"
+msgid_plural "<strong>%s</strong> Results"
+msgstr[0] "<strong>%s</strong> resultado"
+msgstr[1] "<strong>%s</strong> resultados"
+
+#: template-parts/sort-controls.php:2
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: template-parts/sort-controls.php:20
+msgid "Default Order"
+msgstr "Orden por defecto"
+
+#: template-parts/submit-fields/address-and-map.php:22
+#: template-parts/submit-fields/address-and-map.php:34
+msgid "* Please provide a property address!"
+msgstr "* ¡Debes proporcionar la dirección de la propiedad\b!"
+
+#: template-parts/submit-fields/address-and-map.php:24
+#: template-parts/submit-fields/address-and-map.php:36
+msgid "Find Address"
+msgstr "Buscar dirección"
+
+#: template-parts/submit-fields/agent.php:12
+msgid "( Agent information box will not be displayed )"
+msgstr "(el cuadro de información del agente no se mostrará\b)"
+
+#: template-parts/submit-fields/agent.php:23
+msgid "My profile information"
+msgstr "Mi información de perfil"
+
+#: template-parts/submit-fields/agent.php:27
+#: template-parts/submit-fields/agent.php:29
+msgid "( Edit Profile Information )"
+msgstr "(Editar información de perfi\bl)"
+
+#: template-parts/submit-fields/agent.php:42
+msgid "Display an agent's information"
+msgstr "Mostrar una información de agente"
+
+#: template-parts/submit-fields/area-postfix.php:2
+msgid "Area Postfix Text"
+msgstr "Área de texto postfijo\b"
+
+#: template-parts/submit-fields/area-postfix.php:10
+msgid "Sq Ft"
+msgstr "Sq Ft"
+
+#: template-parts/submit-fields/area.php:9
+#: template-parts/submit-fields/bathrooms.php:10
+#: template-parts/submit-fields/bedrooms.php:10
+#: template-parts/submit-fields/garages.php:10
+#: template-parts/submit-fields/price.php:10
+msgid "* Please provide the value in only digits!"
+msgstr "* ¡Debes proporcionar el valor en dígitos únicamente!"
+
+#: template-parts/submit-fields/featured.php:10
+msgid "Mark this property as featured property"
+msgstr "Marcar esta propiedad como propiedad destacada\b"
+
+#: template-parts/submit-fields/images.php:38
+msgid "Drag and drop images here"
+msgstr "Arrastra y suelta las imágenes aquí\b"
+
+#: template-parts/submit-fields/images.php:39
+msgid "or"
+msgstr "o"
+
+#: template-parts/submit-fields/images.php:42
+msgid "Select Images"
+msgstr "Selecciona las imágenes"
+
+#: template-parts/submit-fields/images.php:47
+msgid "* An image should have minimum width of 770px and minimum height of 386px."
+msgstr "* Una imagen debe tener un ancho mínimo de 770px y una altura mínima de 386px."
+
+#: template-parts/submit-fields/images.php:48
+msgid "* You can mark an image as featured by clicking the star icon, Otherwise first image will be considered featured image."
+msgstr "* Puedes marcar una imagen como destacada haciendo clic en el icono de la estrella. De lo contrario, la primera imagen se considerará la imagen destacada\b."
+
+#: template-parts/submit-fields/parent.php:11
+msgid "(no parent)"
+msgstr "(sin principal\b)"
+
+#: template-parts/submit-fields/price-postfix.php:2
+msgid "Price Postfix Text"
+msgstr "Texto de postfijo de precio"
+
+#: template-parts/submit-fields/price.php:2
+msgid "Sale OR Rent Price"
+msgstr "Precio de venta O alquiler\b"
+
+#: template-parts/submit-fields/reviewer-message.php:9
+msgid "Message to the Reviewer"
+msgstr "Mensaje para el revisor"
+
+#: template-parts/submit-fields/submit-button.php:10
+msgid "Update Property"
+msgstr "Actualizar propiedad"
+
+#: template-parts/submit-fields/title.php:8
+msgid "* Please provide property title!"
+msgstr "* ¡Debes proporcionar el título de la propiedad\b!"
+
+#: template-parts/user-nav.php:30
+msgid "Submit"
+msgstr "Enviar"
+
+#: template-parts/user-nav.php:48 template-parts/user-nav.php:50
+msgid "Profile"
+msgstr "Perfil"
+
+#: template-parts/user-nav.php:57
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: template-parts/user-nav.php:67 template-parts/user-nav.php:69
+msgid "Login / Register"
+msgstr "Iniciar sesión/Registrarse"
+
+#: template-search.php:90
+msgid "No Property Found!"
+msgstr "¡No se ha encontrado ninguna propiedad!"
+
+#: template-submit-property.php:316
+msgid "Error:"
+msgstr "Error:"
+
+#: template-submit-property.php:326
+msgid "Property updated successfully!"
+msgstr "¡La propiedad se ha actualizado correctamente\b!"
+
+#: template-submit-property.php:347
+msgid "Please login to submit property!"
+msgstr "¡Debes iniciar sesión para enviar una propiedad!"
+
+#: template-users-listing.php:187
+msgid "No Users Found!"
+msgstr "¡No se ha encontrado ningún usuario!"
+
+#: widgets/advance-search-widget.php:7
+msgid "This widget displays advance search form."
+msgstr "Este widget muestra el formulario de búsqueda avanzada\b."
+
+#: widgets/advance-search-widget.php:8
+msgid "RealHomes - Advance Search Widget"
+msgstr "RealHomes - Widget de búsqueda avanzada"
+
+#: widgets/advance-search-widget.php:39
+#: widgets/agent-featured-properties-widget.php:131
+#: widgets/agent-properties-widget.php:132
+#: widgets/featured-properties-widget.php:115
+#: widgets/property-types-widget.php:39
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#: widgets/agent-featured-properties-widget.php:6
+msgid "Important: This widget is only for the Agent Sidebar."
+msgstr "Importante: este widget solo es para la barra lateral del agente\b."
+
+#: widgets/agent-featured-properties-widget.php:7
+msgid "RealHomes - Agent Featured Properties"
+msgstr "RealHomes - Propiedades destacadas del agente"
+
+#: widgets/agent-featured-properties-widget.php:89
+#: widgets/agent-properties-widget.php:85
+#: widgets/featured-properties-widget.php:75
+msgid "Read More"
+msgstr "Seguir leyendo"
+
+#: widgets/agent-featured-properties-widget.php:108
+msgid "No Featured Property Found For This Agent"
+msgstr "No se ha encontrado ninguna propiedad destacada en este agente"
+
+#: widgets/agent-featured-properties-widget.php:135
+#: widgets/agent-properties-widget.php:142
+#: widgets/featured-properties-widget.php:123
+msgid "Sort By:"
+msgstr "Ordenar por:"
+
+#: widgets/agent-featured-properties-widget.php:137
+#: widgets/agent-properties-widget.php:144
+#: widgets/featured-properties-widget.php:125
+msgid "Most Recent"
+msgstr "Más recientes"
+
+#: widgets/agent-properties-widget.php:6
+msgid "Displays random, recent or featured properties based on selected agent."
+msgstr "Muestra propiedades al azar, recientes o destacadas según la selección del agente."
+
+#: widgets/agent-properties-widget.php:7
+msgid "RealHomes - Agent Related Properties"
+msgstr "RealHomes - Propiedades relacionadas con el agente"
+
+#: widgets/agent-properties-widget.php:105
+msgid "No Property Found Under Selected Agent!"
+msgstr "¡No se ha encontrado ninguna propiedad en el agente seleccionado\b!"
+
+#: widgets/agent-properties-widget.php:136
+msgid "Select an Agent:"
+msgstr "Selecciona un agente:"
+
+#: widgets/agent-properties-widget.php:154
+msgid "Show only Featured Properties."
+msgstr "Mostrar solo propiedades destacadas\b."
+
+#: widgets/featured-properties-widget.php:6
+msgid "Displays Random or Recent Featured Properties."
+msgstr "Muestra propiedades al azar, recientes o destacadas."
+
+#: widgets/featured-properties-widget.php:7
+msgid "RealHomes - Featured Properties"
+msgstr "RealHomes - Propiedades destacadas"
+
+#: widgets/featured-properties-widget.php:94
+msgid "No Featured Property Found!"
+msgstr "¡No se ha encontrado ninguna propiedad destacada!"
+
+#: widgets/property-types-widget.php:6
+msgid "This widget displays a list of Property Types."
+msgstr "Este widget muestra una lista de los tipos de propiedad."
+
+#: widgets/property-types-widget.php:7
+msgid "RealHomes - Property Types"
+msgstr "RealHomes - Tipos de propiedad"

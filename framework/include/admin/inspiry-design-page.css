@@ -1,0 +1,47 @@
+/**
+ * Design Page CSS
+ *
+ */
+
+.rh_design__logo {
+	color: #fff;
+    background: url(../design-page/images/inspiry-logo.png) center center no-repeat rgba(0, 0, 0, 0);
+    -webkit-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    height: 140px;
+    display: inline-block;
+    width: 140px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+input[type=radio].hide {
+	display: none;
+}
+
+.about-wrap .rh_design__img {
+    display: block;
+    width: 100%;
+	border: 5px solid white;
+    transition: border ease 200ms;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.rh_design__radio:checked + img {
+	border: 5px solid #32373c;
+}
+
+.rh_design__label {
+	display: block;
+}
+
+.about-wrap .rh_design__note p {
+    margin-left: 0;
+}
+
+.about-wrap .feature-section.one-col{
+	max-width: none;
+}

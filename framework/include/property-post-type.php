@@ -216,6 +216,23 @@ if ( ! function_exists( 'build_taxonomies' ) ) {
 			)
 		);
 
+
+		// register property city taxonomy for product post type
+		register_taxonomy(
+			'auction-property-city',
+			array('product'),
+			array(
+				'hierarchical' => true,
+				'labels' => apply_filters('inspiry_property_city_labels', $city_labels),
+				'show_ui' => true,
+				'show_in_menu' => 'product',
+				'query_var' => true,
+				'rewrite' => array(
+					'slug' => apply_filters('inspiry_property_city_slug', __('auction-property-city', 'framework')),
+				),
+			)
+		);
+
 		$status_labels = array(
 			'name' => __( 'Property Status', 'framework' ),
 			'singular_name' => __( 'Property Status', 'framework' ),

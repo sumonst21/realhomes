@@ -171,7 +171,7 @@ if ( ! function_exists( 'build_taxonomies' ) ) {
 
 		register_taxonomy(
 			'property-city',
-			array( 'property' ),
+			array( 'property', 'product' ),
 			array(
 				'hierarchical' => true,
 				'labels' => apply_filters( 'inspiry_property_city_labels', $city_labels ),

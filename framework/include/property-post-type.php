@@ -118,6 +118,22 @@ if ( ! function_exists( 'build_taxonomies' ) ) {
 			)
 		);
 
+		// property feature taxonomy for product post type
+		register_taxonomy(
+			'auction-property-feature',
+			array('product'),
+			array(
+				'hierarchical' => true,
+				'labels' => apply_filters('inspiry_property_feature_labels', $feature_labels),
+				'show_ui' => true,
+				'show_in_menu' => 'product',
+				'query_var' => true,
+				'rewrite' => array(
+					'slug' => apply_filters('inspiry_property_feature_slug', __('auction-property-feature', 'framework')),
+				),
+			)
+		);
+
 		$type_labels = array(
 			'name' => __( 'Property Type', 'framework' ),
 			'singular_name' => __( 'Property Type', 'framework' ),
@@ -171,7 +187,7 @@ if ( ! function_exists( 'build_taxonomies' ) ) {
 
 		register_taxonomy(
 			'property-city',
-			array( 'property', 'product' ),
+			array( 'property' ),
 			array(
 				'hierarchical' => true,
 				'labels' => apply_filters( 'inspiry_property_city_labels', $city_labels ),

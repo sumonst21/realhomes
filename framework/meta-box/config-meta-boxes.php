@@ -18,7 +18,8 @@ if ( ! function_exists( 'inspiry_register_meta_boxes' ) ) {
 	 */
 	function inspiry_register_meta_boxes( $meta_boxes ) {
 
-		$prefix = 'woo_auction_';
+		$prefix = 'REAL_HOMES_';
+		//$prefix = 'woo_auction_';
 
 		// Get design variation.
 		$rh_design_variation = INSPIRY_DESIGN_VARIATION;
